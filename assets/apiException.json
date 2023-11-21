@@ -1,0 +1,26 @@
+[
+    {
+        "code": "USER_NOT_FOUND",
+        "message": "User không tồn tại",
+        "status": 404,
+        "isError": true
+    },
+    {
+        "code": "USER_EXIST",
+        "message": "User đã tồn tại",
+        "status": 400,
+        "isError": true
+    },
+    {
+        "code": "USER_NOT_ACTIVE",
+        "message": "User chưa được active",
+        "status": 400,
+        "isError": true
+    },
+    {
+        "code": "USER_PASSWORD_NOT_MATCH",
+        "message": "Sai mật khẩu",
+        "status": 400,
+        "isError": true
+    }
+]

@@ -1,0 +1,281 @@
+[
+	{
+		"id": "583f969161cfea0012cf68f7",
+		"code": "TTH 22.7",
+		"name": "Nguyễn Thị Định - Đường D",
+		"location": {
+			"longitude": 106.781423091888,
+			"latitude": 10.7646823693643
+		}
+	},
+	{
+		"id": "56de42f611f398ec0c481299",
+		"code": "TTH 18.2",
+		"name": "Võ Văn Kiệt - An Dương Vương 2",
+		"location": {
+			"longitude": 106.620351076126,
+			"latitude": 10.7265671915496
+		}
+	},
+	{
+		"id": "5deb576d1dc17d7c5515ad15",
+		"code": "ITS 8.2",
+		"name": "Lý Tự Trọng - Chu Mạnh Trinh",
+		"location": {
+			"longitude": 106.704602,
+			"latitude": 10.781944
+		}
+	},
+	{
+		"id": "5b8b2323ca057700116405d0",
+		"code": "TTH 29.4",
+		"name": "Trường Sơn - Ga Quốc Nội 2",
+		"location": {
+			"longitude": 106.664902567863,
+			"latitude": 10.8129465937096
+		}
+	},
+	{
+		"id": "587ee0ecb807da0011e33d50",
+		"code": "TTH 44.4",
+		"name": "Phan Đăng Lưu - Lê Văn Duyệt",
+		"location": {
+			"longitude": 106.696482896805,
+			"latitude": 10.8019970541825
+		}
+	},
+	{
+		"id": "63ae7a50bfd3d90017e8f2b2",
+		"code": "TTH 197",
+		"name": "Ba Tháng Hai – Sư Vạn Hạnh",
+		"location": {
+			"longitude": 106.670830249786,
+			"latitude": 10.7697784337206
+		}
+	},
+	{
+		"id": "56de42f611f398ec0c48128f",
+		"code": "TTH 11.1",
+		"name": "Võ Văn Kiệt - Huỳnh Mẫn Đạt",
+		"location": {
+			"longitude": 106.677197813988,
+			"latitude": 10.751960277381
+		}
+	},
+	{
+		"id": "56de42f611f398ec0c4812a2",
+		"code": "TTH 22.4",
+		"name": "Nút giao Mỹ Thủy 2",
+		"location": {
+			"longitude": 106.7755866,
+			"latitude": 10.7701157
+		}
+	},
+	{
+		"id": "58b571c817139d0010f35d5d",
+		"code": "TTH 34.11",
+		"name": "Nguyễn Văn Trỗi - Trần Huy Liệu",
+		"location": {
+			"longitude": 106.677948832512,
+			"latitude": 10.794472307568
+		}
+	},
+	{
+		"id": "63bd1f21bfd3d90017ec3d04",
+		"code": "TTH 245",
+		"name": "Huỳnh Tấn Phát - Phạm Hữu Lầu",
+		"location": {
+			"longitude": 106.737660169601,
+			"latitude": 10.7052043577961
+		}
+	},
+	{
+		"id": "58df4d95dc195800111e04b9",
+		"code": "TTH 26.4",
+		"name": "Phổ Quang - Hoàng Minh Giám",
+		"location": {
+			"longitude": 106.672879457474,
+			"latitude": 10.8079619154301
+		}
+	},
+	{
+		"id": "591c6552a6bfb5001194009a",
+		"code": "TTH 48.5",
+		"name": "Cầu Long Kiểng (Long An)",
+		"location": {
+			"longitude": 106.702351570129,
+			"latitude": 10.6885895362911
+		}
+	},
+	{
+		"id": "586e28a0f9fab7001111b0b3",
+		"code": "TTH 21.3",
+		"name": "Quốc lộ 1 - KCX Linh Trung 1",
+		"location": {
+			"longitude": 106.768741607666,
+			"latitude": 10.872081942303
+		}
+	},
+	{
+		"id": "5a8269c45058170011f6eae4",
+		"code": "TTH 124.1",
+		"name": "Cầu Phú Mỹ (Q7)",
+		"location": {
+			"longitude": 106.7367374897,
+			"latitude": 10.7409610852775
+		}
+	},
+	{
+		"id": "5822adbbedeb6c0012a2d65f",
+		"code": "TTH 10.1",
+		"name": "Võ Văn Kiệt - Cầu Chữ Y 1",
+		"location": {
+			"longitude": 106.68367266655,
+			"latitude": 10.7519444666594
+		}
+	},
+	{
+		"id": "56de42f611f398ec0c481297",
+		"code": "TTH 13.2",
+		"name": "Võ Văn Kiệt - Nguyễn Tri Phương 2",
+		"location": {
+			"longitude": 106.670079231262,
+			"latitude": 10.7503686605855
+		}
+	},
+	{
+		"id": "5deb576d1dc17d7c5515ad00",
+		"code": "ITS 3.1",
+		"name": "Điện Biên Phủ - Hai Bà Trưng",
+		"location": {
+			"longitude": 106.693720221519,
+			"latitude": 10.7866311946675
+		}
+	},
+	{
+		"id": "5a823e425058170011f6eaa4",
+		"code": "TTH 102.1",
+		"name": "Đinh Tiên Hoàng - Võ Thị Sáu 1",
+		"location": {
+			"longitude": 106.695774793625,
+			"latitude": 10.7917743133057
+		}
+	},
+	{
+		"id": "5deb576d1dc17d7c5515ad08",
+		"code": "ITS 6.2",
+		"name": "Cộng Hòa - Tân Kỳ Tân Quý",
+		"location": {
+			"longitude": 106.637651324272,
+			"latitude": 10.8041364085074
+		}
+	},
+	{
+		"id": "63b65fd8bfd3d90017eaa461",
+		"code": "TTH 237",
+		"name": "Lê Văn Duyệt - Vũ Huy Tấn",
+		"location": {
+			"longitude": 106.696085929871,
+			"latitude": 10.7956526724414
+		}
+	},
+	{
+		"id": "587c79e9b807da0011e33d3d",
+		"code": "TTH 40.3",
+		"name": "Điện Biên Phủ - Nguyễn Văn Thương (D1)",
+		"location": {
+			"longitude": 106.71789765358,
+			"latitude": 10.7996258308418
+		}
+	},
+	{
+		"id": "63b65ebebfd3d90017eaa3ae",
+		"code": "TTH 233.1",
+		"name": "Nguyễn Hữu Cảnh - Ngô Tất Tố 2 (Dạ cầu Thủ Thiêm 1)",
+		"location": {
+			"longitude": 106.716138124466,
+			"latitude": 10.7888338935436
+		}
+	},
+	{
+		"id": "63b660f8bfd3d90017eaa4ea",
+		"code": "TTH 242.2",
+		"name": "Cầu Tân Thuận 2 - Q7 (Q7-Q4)",
+		"location": {
+			"longitude": 106.723862886429,
+			"latitude": 10.7526506780822
+		}
+	},
+	{
+		"id": "5874769eb807da0011e33cec",
+		"code": "TTH 38.3",
+		"name": "Cộng Hòa - Út Tịch 2",
+		"location": {
+			"longitude": 106.657757163048,
+			"latitude": 10.8001053464053
+		}
+	},
+	{
+		"id": "58af994abd82540010390c37",
+		"code": "TTH 36.1",
+		"name": "Nguyễn Hữu Cảnh - Tôn Đức Thắng",
+		"location": {
+			"longitude": 106.706235408783,
+			"latitude": 10.7826315159924
+		}
+	},
+	{
+		"id": "56df8108c062921100c143db",
+		"code": "TTH 23",
+		"name": "Hoàng Minh Giám - Hồng Hà",
+		"location": {
+			"longitude": 106.674022078514,
+			"latitude": 10.8090315732439
+		}
+	},
+	{
+		"id": "63ae7903bfd3d90017e8f211",
+		"code": "TTH 191",
+		"name": "Hậu Giang -  Hẻm 491",
+		"location": {
+			"longitude": 106.636669635773,
+			"latitude": 10.7483923035435
+		}
+	},
+	{
+		"id": "63ae7727bfd3d90017e8f14a",
+		"code": "TTH 186.2",
+		"name": "Hoàng Diệu - Đoàn Văn Bơ 2",
+		"location": {
+			"longitude": 106.703719496727,
+			"latitude": 10.7635071530486
+		}
+	},
+	{
+		"id": "5d9ddec9766c880017188c9c",
+		"code": "TTH 173",
+		"name": "Nút giao Hàng Xanh 5 (Hàng Xanh - Bạch Đằng)",
+		"location": {
+			"longitude": 106.711503267288,
+			"latitude": 10.8021551350728
+		}
+	},
+	{
+		"id": "63ae79aabfd3d90017e8f26a",
+		"code": "TTH 195",
+		"name": "Cách Mạng Tháng Tám - Trường Sơn",
+		"location": {
+			"longitude": 106.6664904356,
+			"latitude": 10.7858618271433
+		}
+	},
+	{
+		"id": "5deb576d1dc17d7c5515ad02",
+		"code": "ITS 3.4",
+		"name": "Điện Biên Phủ - Pasteur",
+		"location": {
+			"longitude": 106.691552996635,
+			"latitude": 10.7843441648872
+		}
+	}
+]

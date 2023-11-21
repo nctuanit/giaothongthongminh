@@ -1,0 +1,3854 @@
+[
+  {
+    "id": "583f969161cfea0012cf68f7",
+    "code": "TTH 22.7",
+    "name": "Nguyễn Thị Định - Đường D",
+    "location": {
+      "longitude": 106.781423091888,
+      "latitude": 10.7646823693643
+    }
+  },
+  {
+    "id": "56de42f611f398ec0c481299",
+    "code": "TTH 18.2",
+    "name": "Võ Văn Kiệt - An Dương Vương 2",
+    "location": {
+      "longitude": 106.620351076126,
+      "latitude": 10.7265671915496
+    }
+  },
+  {
+    "id": "5deb576d1dc17d7c5515ad15",
+    "code": "ITS 8.2",
+    "name": "Lý Tự Trọng - Chu Mạnh Trinh",
+    "location": {
+      "longitude": 106.704602,
+      "latitude": 10.781944
+    }
+  },
+  {
+    "id": "5b8b2323ca057700116405d0",
+    "code": "TTH 29.4",
+    "name": "Trường Sơn - Ga Quốc Nội 2",
+    "location": {
+      "longitude": 106.664902567863,
+      "latitude": 10.8129465937096
+    }
+  },
+  {
+    "id": "587ee0ecb807da0011e33d50",
+    "code": "TTH 44.4",
+    "name": "Phan Đăng Lưu - Lê Văn Duyệt",
+    "location": {
+      "longitude": 106.696482896805,
+      "latitude": 10.8019970541825
+    }
+  },
+  {
+    "id": "63ae7a50bfd3d90017e8f2b2",
+    "code": "TTH 197",
+    "name": "Ba Tháng Hai – Sư Vạn Hạnh",
+    "location": {
+      "longitude": 106.670830249786,
+      "latitude": 10.7697784337206
+    }
+  },
+  {
+    "id": "56de42f611f398ec0c48128f",
+    "code": "TTH 11.1",
+    "name": "Võ Văn Kiệt - Huỳnh Mẫn Đạt",
+    "location": {
+      "longitude": 106.677197813988,
+      "latitude": 10.751960277381
+    }
+  },
+  {
+    "id": "56de42f611f398ec0c4812a2",
+    "code": "TTH 22.4",
+    "name": "Nút giao Mỹ Thủy 2",
+    "location": {
+      "longitude": 106.7755866,
+      "latitude": 10.7701157
+    }
+  },
+  {
+    "id": "58b571c817139d0010f35d5d",
+    "code": "TTH 34.11",
+    "name": "Nguyễn Văn Trỗi - Trần Huy Liệu",
+    "location": {
+      "longitude": 106.677948832512,
+      "latitude": 10.794472307568
+    }
+  },
+  {
+    "id": "63bd1f21bfd3d90017ec3d04",
+    "code": "TTH 245",
+    "name": "Huỳnh Tấn Phát - Phạm Hữu Lầu",
+    "location": {
+      "longitude": 106.737660169601,
+      "latitude": 10.7052043577961
+    }
+  },
+  {
+    "id": "58df4d95dc195800111e04b9",
+    "code": "TTH 26.4",
+    "name": "Phổ Quang - Hoàng Minh Giám",
+    "location": {
+      "longitude": 106.672879457474,
+      "latitude": 10.8079619154301
+    }
+  },
+  {
+    "id": "591c6552a6bfb5001194009a",
+    "code": "TTH 48.5",
+    "name": "Cầu Long Kiểng (Long An)",
+    "location": {
+      "longitude": 106.702351570129,
+      "latitude": 10.6885895362911
+    }
+  },
+  {
+    "id": "586e28a0f9fab7001111b0b3",
+    "code": "TTH 21.3",
+    "name": "Quốc lộ 1 - KCX Linh Trung 1",
+    "location": {
+      "longitude": 106.768741607666,
+      "latitude": 10.872081942303
+    }
+  },
+  {
+    "id": "5a8269c45058170011f6eae4",
+    "code": "TTH 124.1",
+    "name": "Cầu Phú Mỹ (Q7)",
+    "location": {
+      "longitude": 106.7367374897,
+      "latitude": 10.7409610852775
+    }
+  },
+  {
+    "id": "5822adbbedeb6c0012a2d65f",
+    "code": "TTH 10.1",
+    "name": "Võ Văn Kiệt - Cầu Chữ Y 1",
+    "location": {
+      "longitude": 106.68367266655,
+      "latitude": 10.7519444666594
+    }
+  },
+  {
+    "id": "56de42f611f398ec0c481297",
+    "code": "TTH 13.2",
+    "name": "Võ Văn Kiệt - Nguyễn Tri Phương 2",
+    "location": {
+      "longitude": 106.670079231262,
+      "latitude": 10.7503686605855
+    }
+  },
+  {
+    "id": "5deb576d1dc17d7c5515ad00",
+    "code": "ITS 3.1",
+    "name": "Điện Biên Phủ - Hai Bà Trưng",
+    "location": {
+      "longitude": 106.693720221519,
+      "latitude": 10.7866311946675
+    }
+  },
+  {
+    "id": "5a823e425058170011f6eaa4",
+    "code": "TTH 102.1",
+    "name": "Đinh Tiên Hoàng - Võ Thị Sáu 1",
+    "location": {
+      "longitude": 106.695774793625,
+      "latitude": 10.7917743133057
+    }
+  },
+  {
+    "id": "5deb576d1dc17d7c5515ad08",
+    "code": "ITS 6.2",
+    "name": "Cộng Hòa - Tân Kỳ Tân Quý",
+    "location": {
+      "longitude": 106.637651324272,
+      "latitude": 10.8041364085074
+    }
+  },
+  {
+    "id": "63b65fd8bfd3d90017eaa461",
+    "code": "TTH 237",
+    "name": "Lê Văn Duyệt - Vũ Huy Tấn",
+    "location": {
+      "longitude": 106.696085929871,
+      "latitude": 10.7956526724414
+    }
+  },
+  {
+    "id": "587c79e9b807da0011e33d3d",
+    "code": "TTH 40.3",
+    "name": "Điện Biên Phủ - Nguyễn Văn Thương (D1)",
+    "location": {
+      "longitude": 106.71789765358,
+      "latitude": 10.7996258308418
+    }
+  },
+  {
+    "id": "63b65ebebfd3d90017eaa3ae",
+    "code": "TTH 233.1",
+    "name": "Nguyễn Hữu Cảnh - Ngô Tất Tố 2 (Dạ cầu Thủ Thiêm 1)",
+    "location": {
+      "longitude": 106.716138124466,
+      "latitude": 10.7888338935436
+    }
+  },
+  {
+    "id": "63b660f8bfd3d90017eaa4ea",
+    "code": "TTH 242.2",
+    "name": "Cầu Tân Thuận 2 - Q7 (Q7-Q4)",
+    "location": {
+      "longitude": 106.723862886429,
+      "latitude": 10.7526506780822
+    }
+  },
+  {
+    "id": "5874769eb807da0011e33cec",
+    "code": "TTH 38.3",
+    "name": "Cộng Hòa - Út Tịch 2",
+    "location": {
+      "longitude": 106.657757163048,
+      "latitude": 10.8001053464053
+    }
+  },
+  {
+    "id": "58af994abd82540010390c37",
+    "code": "TTH 36.1",
+    "name": "Nguyễn Hữu Cảnh - Tôn Đức Thắng",
+    "location": {
+      "longitude": 106.706235408783,
+      "latitude": 10.7826315159924
+    }
+  },
+  {
+    "id": "56df8108c062921100c143db",
+    "code": "TTH 23",
+    "name": "Hoàng Minh Giám - Hồng Hà",
+    "location": {
+      "longitude": 106.674022078514,
+      "latitude": 10.8090315732439
+    }
+  },
+  {
+    "id": "63ae7903bfd3d90017e8f211",
+    "code": "TTH 191",
+    "name": "Hậu Giang -  Hẻm 491",
+    "location": {
+      "longitude": 106.636669635773,
+      "latitude": 10.7483923035435
+    }
+  },
+  {
+    "id": "63ae7727bfd3d90017e8f14a",
+    "code": "TTH 186.2",
+    "name": "Hoàng Diệu - Đoàn Văn Bơ 2",
+    "location": {
+      "longitude": 106.703719496727,
+      "latitude": 10.7635071530486
+    }
+  },
+  {
+    "id": "5d9ddec9766c880017188c9c",
+    "code": "TTH 173",
+    "name": "Nút giao Hàng Xanh 5 (Hàng Xanh - Bạch Đằng)",
+    "location": {
+      "longitude": 106.711503267288,
+      "latitude": 10.8021551350728
+    }
+  },
+  {
+    "id": "63ae79aabfd3d90017e8f26a",
+    "code": "TTH 195",
+    "name": "Cách Mạng Tháng Tám - Trường Sơn",
+    "location": {
+      "longitude": 106.6664904356,
+      "latitude": 10.7858618271433
+    }
+  },
+  {
+    "id": "5deb576d1dc17d7c5515ad02",
+    "code": "ITS 3.4",
+    "name": "Điện Biên Phủ - Pasteur",
+    "location": {
+      "longitude": 106.691552996635,
+      "latitude": 10.7843441648872
+    }
+  },
+  {
+    "id": "56de42f611f398ec0c481293",
+    "code": "TTH 14.1",
+    "name": "Võ Văn Kiệt - Hải Thượng Lãn Ông 1",
+    "location": {
+      "longitude": 106.663234233856,
+      "latitude": 10.7499786604875
+    }
+  },
+  {
+    "id": "63b66089bfd3d90017eaa4bd",
+    "code": "TTH 241",
+    "name": "Nơ Trang Long - Chu Văn An",
+    "location": {
+      "longitude": 106.695753335953,
+      "latitude": 10.8114079914905
+    }
+  },
+  {
+    "id": "63ae798abfd3d90017e8f255",
+    "code": "TTH 194",
+    "name": "Cách Mạng Tháng Tám - Bắc Hải",
+    "location": {
+      "longitude": 106.664623618126,
+      "latitude": 10.7869104851311
+    }
+  },
+  {
+    "id": "597bf277faa7ea0011c7c29f",
+    "code": "TTH 99",
+    "name": "Cầu Phú Hữu 2",
+    "location": {
+      "longitude": 106.792302131653,
+      "latitude": 10.8208924000834
+    }
+  },
+  {
+    "id": "5d9ddf49766c880017188ca0",
+    "code": "TTH 175",
+    "name": "Nút giao Hàng Xanh 7 (Hàng Xanh - Cầu Văn Thánh)",
+    "location": {
+      "longitude": 106.712324023247,
+      "latitude": 10.8012277259948
+    }
+  },
+  {
+    "id": "5d8cda6a766c880017188960",
+    "code": "TTH 158",
+    "name": "Phạm Văn Đồng - Kha Vạn Cân (hướng đi Sân bay)",
+    "location": {
+      "longitude": 106.743823885918,
+      "latitude": 10.8411932946322
+    }
+  },
+  {
+    "id": "63ae763bbfd3d90017e8f0c4",
+    "code": "TTH 182",
+    "name": "Lý Thái Tổ - Nguyễn Đình Chiểu",
+    "location": {
+      "longitude": 106.678780317307,
+      "latitude": 10.7662581006404
+    }
+  },
+  {
+    "id": "56de42f611f398ec0c48128b",
+    "code": "TTH 9.1",
+    "name": "Võ Văn Kiệt - Nguyễn Văn Cừ 1",
+    "location": {
+      "longitude": 106.68691277504,
+      "latitude": 10.7543213358374
+    }
+  },
+  {
+    "id": "58e49ff8d9d6200011e0b9d4",
+    "code": "TTH 35.2",
+    "name": "Nam Kỳ Khởi Nghĩa - Trần Quốc Toản",
+    "location": {
+      "longitude": 106.687223911285,
+      "latitude": 10.7863150164711
+    }
+  },
+  {
+    "id": "56df84abc062921100c143e5",
+    "code": "TTH 24.2",
+    "name": "Nút giao Nguyễn Thái Sơn 3 (Phạm Văn Đồng)",
+    "location": {
+      "longitude": 106.679236292839,
+      "latitude": 10.8142217306645
+    }
+  },
+  {
+    "id": "5a8241105058170011f6eaa6",
+    "code": "TTH 102.2",
+    "name": "Đinh Tiên Hoàng - Võ Thị Sáu 2",
+    "location": {
+      "longitude": 106.695785522461,
+      "latitude": 10.7919218604929
+    }
+  },
+  {
+    "id": "5d8cdb0a766c880017188964",
+    "code": "TTH 160",
+    "name": "Trường Chinh - Xuân Hồng",
+    "location": {
+      "longitude": 106.651657819748,
+      "latitude": 10.7937134991298
+    }
+  },
+  {
+    "id": "5a825ded5058170011f6ead7",
+    "code": "TTH 118.2",
+    "name": "Quốc lộ 50 - Cầu Ông Thìn (2)",
+    "location": {
+      "longitude": 106.655831336975,
+      "latitude": 10.6484508725221
+    }
+  },
+  {
+    "id": "5a6082698576340017d06678",
+    "code": "IDICO-QL1 16",
+    "name": "QL1 - Trạm thu phí AS-AL 2",
+    "location": {
+      "longitude": 106.59654378891,
+      "latitude": 10.7947673992211
+    }
+  },
+  {
+    "id": "63b5503bbfd3d90017ea7ccc",
+    "code": "TTH 231.3",
+    "name": "Nút giao Mỹ Thủy (7)",
+    "location": {
+      "longitude": 106.775082349777,
+      "latitude": 10.7697468141455
+    }
+  },
+  {
+    "id": "5ad0621c98d8fc001102e268",
+    "code": "TTH 101.2",
+    "name": "Lý Tự Trọng - Hai Bà Trưng 2",
+    "location": {
+      "longitude": 106.702335476875,
+      "latitude": 10.779137682017
+    }
+  },
+  {
+    "id": "56de42f611f398ec0c48128c",
+    "code": "TTH 9.2",
+    "name": "Võ Văn Kiệt - Nguyễn Văn Cừ 2",
+    "location": {
+      "longitude": 106.6864407,
+      "latitude": 10.7536415
+    }
+  },
+  {
+    "id": "5b5995a3fd4edb0019c7d9ab",
+    "code": "TTH 15.2",
+    "name": "Võ Văn Kiệt - Cầu Chà Và 2 (trên cầu)",
+    "location": {
+      "longitude": 106.660348176956,
+      "latitude": 10.7489404145267
+    }
+  },
+  {
+    "id": "63b54bcdbfd3d90017ea7a82",
+    "code": "TTH 222",
+    "name": "Tỉnh lộ 43 - KCX Linh Trung 2",
+    "location": {
+      "longitude": 106.718090772629,
+      "latitude": 10.8960825794088
+    }
+  },
+  {
+    "id": "63b3c274bfd3d90017e9ab93",
+    "code": "TTH 10a",
+    "name": "Hồng Bàng - Phù Đổng Thiên Vương",
+    "location": {
+      "longitude": 106.662520766258,
+      "latitude": 10.7546955197447
+    }
+  },
+  {
+    "id": "63ae7b3cbfd3d90017e8f34d",
+    "code": "TTH 200.3",
+    "name": "Ba Tháng Hai - Lý Thường Kiệt 3",
+    "location": {
+      "longitude": 106.659817099571,
+      "latitude": 10.7644610285251
+    }
+  },
+  {
+    "id": "6318283cc9eae60017a19f0c",
+    "code": "TTH 176.1",
+    "name": "Nguyễn Thị Minh Khai - Đinh Tiên Hoàng 1",
+    "location": {
+      "longitude": 106.701568365097,
+      "latitude": 10.7866101161314
+    }
+  },
+  {
+    "id": "5deb576d1dc17d7c5515acf6",
+    "code": "ITS 1.4-1",
+    "name": "Nút giao Ngã sáu Cộng Hòa",
+    "location": {
+      "longitude": 106.681205,
+      "latitude": 10.765389
+    }
+  },
+  {
+    "id": "58746488b807da0011e33cd7",
+    "code": "TTH 21.10",
+    "name": "Cầu vượt Sóng Thần 2",
+    "location": {
+      "longitude": 106.748507022858,
+      "latitude": 10.8743050851613
+    }
+  },
+  {
+    "id": "5822b5ededeb6c0012a2d66a",
+    "code": "TTH 5.1",
+    "name": "Mai Chí Thọ - Nguyễn Cơ Thạch 1",
+    "location": {
+      "longitude": 106.722586154938,
+      "latitude": 10.7732144077704
+    }
+  },
+  {
+    "id": "63ae7be0bfd3d90017e8f3a8",
+    "code": "TTH 201.1",
+    "name": "Ba Tháng Hai - Lê Đại Hành 1",
+    "location": {
+      "longitude": 106.657199263573,
+      "latitude": 10.7621527500863
+    }
+  },
+  {
+    "id": "63b54a04bfd3d90017ea783e",
+    "code": "TTH 216",
+    "name": "Lê Văn Việt - Hoàng Hữu Nam",
+    "location": {
+      "longitude": 106.813673973084,
+      "latitude": 10.8502078623705
+    }
+  },
+  {
+    "id": "63b660d8bfd3d90017eaa4d5",
+    "code": "TTH 242.1",
+    "name": "Cầu Tân Thuận 2 - Q7 (Q4-Q7)",
+    "location": {
+      "longitude": 106.723691225052,
+      "latitude": 10.7527666230832
+    }
+  },
+  {
+    "id": "63b54f70bfd3d90017ea7c86",
+    "code": "TTH 49.10",
+    "name": "Cầu Sài Gòn (10)",
+    "location": {
+      "longitude": 106.724474430084,
+      "latitude": 10.7983348235969
+    }
+  },
+  {
+    "id": "5a8267fe5058170011f6eae1",
+    "code": "TTH 123.1",
+    "name": "Lê Văn Lương - Cầu Rạch Đĩa",
+    "location": {
+      "longitude": 106.697700619698,
+      "latitude": 10.7235786992945
+    }
+  },
+  {
+    "id": "58746122b807da0011e33cc5",
+    "code": "TTH 21.2",
+    "name": "Quốc lộ 1 - ĐH Nông Lâm 2",
+    "location": {
+      "longitude": 106.787940859795,
+      "latitude": 10.8672299545045
+    }
+  },
+  {
+    "id": "63ae768dbfd3d90017e8f0f1",
+    "code": "TTH 183.2",
+    "name": "Khánh Hội - Vĩnh Hội",
+    "location": {
+      "longitude": 106.701278686523,
+      "latitude": 10.7560025246799
+    }
+  },
+  {
+    "id": "63b54a70bfd3d90017ea7862",
+    "code": "TTH 218",
+    "name": "Lã Xuân Oai - Đường D2",
+    "location": {
+      "longitude": 106.804490089417,
+      "latitude": 10.830049838744
+    }
+  },
+  {
+    "id": "5deb576d1dc17d7c5515ad0c",
+    "code": "ITS 7.2",
+    "name": "Nút giao Ngã sáu Phù Đổng",
+    "location": {
+      "longitude": 106.693342,
+      "latitude": 10.771135
+    }
+  },
+  {
+    "id": "58e49783d9d6200011e0b9ce",
+    "code": "TTH 28.10",
+    "name": "Trường Chinh - Phan Văn Hớn 2 (HM-Q12)",
+    "location": {
+      "longitude": 106.624760627747,
+      "latitude": 10.8274733494884
+    }
+  },
+  {
+    "id": "58746295b807da0011e33ccb",
+    "code": "TTH 21.5",
+    "name": "Quốc lộ 1 - Bình Đường",
+    "location": {
+      "longitude": 106.758962273598,
+      "latitude": 10.8752217316573
+    }
+  },
+  {
+    "id": "58d7bbf2c1e33c00112b3216",
+    "code": "TTH 21.46",
+    "name": "Quốc lộ 1 - Đinh Đức Thiện 2",
+    "location": {
+      "longitude": 106.570794582367,
+      "latitude": 10.6656266937569
+    }
+  },
+  {
+    "id": "585b2baec3f96200127dc508",
+    "code": "TTH 37.4",
+    "name": "Nguyễn Văn Linh - Huỳnh Tấn Phát 2",
+    "location": {
+      "longitude": 106.728331446648,
+      "latitude": 10.7525452734972
+    }
+  },
+  {
+    "id": "591c662ba6bfb5001194009c",
+    "code": "TTH 48.6",
+    "name": "Cầu Long Kiểng (HCM)",
+    "location": {
+      "longitude": 106.70245885849,
+      "latitude": 10.6891377555772
+    }
+  },
+  {
+    "id": "56f8e708025e9511002786cb",
+    "code": "TTH 57",
+    "name": "Đường hầm - Ký Con",
+    "location": {
+      "longitude": 106.699186563492,
+      "latitude": 10.7646665593097
+    }
+  },
+  {
+    "id": "587ee2aeb807da0011e33d52",
+    "code": "TTH 44.1",
+    "name": "Phan Đăng Lưu - Phan Xích Long",
+    "location": {
+      "longitude": 106.683232784271,
+      "latitude": 10.8020392090947
+    }
+  },
+  {
+    "id": "5874644cb807da0011e33cd5",
+    "code": "TTH 21.9",
+    "name": "Cầu vượt Sóng Thần 1",
+    "location": {
+      "longitude": 106.750985383987,
+      "latitude": 10.8758064874328
+    }
+  },
+  {
+    "id": "597bf0b8faa7ea0011c7c293",
+    "code": "TTH 98",
+    "name": "Cầu Phú Hữu 1",
+    "location": {
+      "longitude": 106.791679859161,
+      "latitude": 10.8163926125139
+    }
+  },
+  {
+    "id": "589d0bceb3bf7600110283d6",
+    "code": "TTH 49.6",
+    "name": "Cầu Sài Gòn 2 (Bình Thạnh)",
+    "location": {
+      "longitude": 106.726062297821,
+      "latitude": 10.7987616470143
+    }
+  },
+  {
+    "id": "5a10c79f02eb490011a0b0dd",
+    "code": "TTH 59.1",
+    "name": "Mai Chí Thọ - Tố Hữu (C6)",
+    "location": {
+      "longitude": 106.716717481613,
+      "latitude": 10.7713172490313
+    }
+  },
+  {
+    "id": "5deb576d1dc17d7c5515ad19",
+    "code": "ITS 8.7",
+    "name": "Nguyễn Thị Minh Khai - Mạc Đĩnh Chi",
+    "location": {
+      "longitude": 106.699659,
+      "latitude": 10.784426
+    }
+  },
+  {
+    "id": "5deb576d1dc17d7c5515ad01",
+    "code": "ITS 3.2",
+    "name": "Võ Thị Sáu - Hai Bà Trưng",
+    "location": {
+      "longitude": 106.691815853119,
+      "latitude": 10.7878590168447
+    }
+  },
+  {
+    "id": "591c6b71a6bfb500119400a5",
+    "code": "TTH 48.9",
+    "name": "Cầu Cái Tâm (Long An)",
+    "location": {
+      "longitude": 106.577231884003,
+      "latitude": 10.6945039266875
+    }
+  },
+  {
+    "id": "5b6329fdfd4edb0019c7dc0b",
+    "code": "TTH 132",
+    "name": "Nguyễn Trãi - Nguyễn Văn Cừ",
+    "location": {
+      "longitude": 106.684375405312,
+      "latitude": 10.7596494601112
+    }
+  },
+  {
+    "id": "589add0fb3bf7600110283ae",
+    "code": "TTH 46.2",
+    "name": "Tô Ký (Tỉnh lộ 15) - Đông Bắc",
+    "location": {
+      "longitude": 106.623339056969,
+      "latitude": 10.8556133114939
+    }
+  },
+  {
+    "id": "58ad6961bd82540010390be5",
+    "code": "TTH 34.9",
+    "name": "Nút giao Phú Nhuận 1 (Phan Đình Phùng)",
+    "location": {
+      "longitude": 106.680378913879,
+      "latitude": 10.7990461956223
+    }
+  },
+  {
+    "id": "58abbf72bd82540010390ba4",
+    "code": "TTH 49.9",
+    "name": "Cầu Sài Gòn 9 (Bình Thạnh - Thủ Đức)",
+    "location": {
+      "longitude": 106.726319789886,
+      "latitude": 10.7985614089434
+    }
+  },
+  {
+    "id": "5a606dbc8576340017d0662b",
+    "code": "TTH 40.4",
+    "name": "Điện Biên Phủ - Nguyễn Hữu Cảnh",
+    "location": {
+      "longitude": 106.721127033234,
+      "latitude": 10.7978184191454
+    }
+  },
+  {
+    "id": "58abbee5bd82540010390ba2",
+    "code": "TTH 49.5",
+    "name": "Cầu Sài Gòn 5 (dạ cầu Thủ Đức)",
+    "location": {
+      "longitude": 106.729398965836,
+      "latitude": 10.7991621227557
+    }
+  },
+  {
+    "id": "5deb576d1dc17d7c5515acfe",
+    "code": "ITS 2.8",
+    "name": "Lý Chính Thắng - Trương Định",
+    "location": {
+      "longitude": 106.683688759804,
+      "latitude": 10.7825155824841
+    }
+  },
+  {
+    "id": "58df4e22dc195800111e04bb",
+    "code": "TTH 26.5",
+    "name": "Yên Thế - Bạch Đằng",
+    "location": {
+      "longitude": 106.668593287468,
+      "latitude": 10.8141637700114
+    }
+  },
+  {
+    "id": "58d7b3e8c1e33c00112b3207",
+    "code": "TTH 21.47",
+    "name": "Quốc lộ 1 - Nguyễn Văn Linh",
+    "location": {
+      "longitude": 106.595363616943,
+      "latitude": 10.6901498501196
+    }
+  },
+  {
+    "id": "5ad0679598d8fc001102e274",
+    "code": "TTH 105.3",
+    "name": "Lê Văn Việt - Man Thiện",
+    "location": {
+      "longitude": 106.786707043648,
+      "latitude": 10.8452343413582
+    }
+  },
+  {
+    "id": "5a824b6c5058170011f6eaab",
+    "code": "TTH 104.1",
+    "name": "Nút giao Bốn Xã 3 (Lê Văn Quới)",
+    "location": {
+      "longitude": 106.621397137642,
+      "latitude": 10.773841521503
+    }
+  },
+  {
+    "id": "58e49e3dd9d6200011e0b9d1",
+    "code": "TTH 35.1",
+    "name": "Nam Kỳ Khởi Nghĩa - Lý Chính Thắng",
+    "location": {
+      "longitude": 106.6847884655,
+      "latitude": 10.7886020312638
+    }
+  },
+  {
+    "id": "58175ac4edeb6c0012a2d5bb",
+    "code": "TTH 3.1",
+    "name": "Mai Chí Thọ - Đồng Văn Cống 1",
+    "location": {
+      "longitude": 106.749606728554,
+      "latitude": 10.7878800952932
+    }
+  },
+  {
+    "id": "5d8cdc57766c88001718896e",
+    "code": "TTH 165",
+    "name": "Lý Thường Kiệt - Lạc Long Quân",
+    "location": {
+      "longitude": 106.652473211288,
+      "latitude": 10.7904463853615
+    }
+  },
+  {
+    "id": "62da3e840637a10017d7073d",
+    "code": "TTH 176.3",
+    "name": "Quốc Lộ 13 - Nguyễn Thị Thi 3",
+    "location": {
+      "longitude": 106.71789765358,
+      "latitude": 10.8451078948305
+    }
+  },
+  {
+    "id": "56de42f611f398ec0c481288",
+    "code": "TTH 7.1",
+    "name": "Võ Văn Kiệt - Cầu Ông Lãnh 1",
+    "location": {
+      "longitude": 106.697652339935,
+      "latitude": 10.7637917349984
+    }
+  },
+  {
+    "id": "5a824f975058170011f6eab8",
+    "code": "TTH 116.2",
+    "name": "Nguyễn Oanh - Phan Văn Trị (2)",
+    "location": {
+      "longitude": 106.676913499832,
+      "latitude": 10.8310719980749
+    }
+  },
+  {
+    "id": "5a824c3e5058170011f6eaae",
+    "code": "TTH 104.2",
+    "name": "Nút giao Bốn Xã 1 (Bình Long)",
+    "location": {
+      "longitude": 106.621649265289,
+      "latitude": 10.7738836803625
+    }
+  },
+  {
+    "id": "587470c2b807da0011e33ce4",
+    "code": "TTH 40.2",
+    "name": "Nguyễn Hữu Cảnh - Ngô Tất Tố (Cầu Thủ Thiêm 1)",
+    "location": {
+      "longitude": 106.715097427368,
+      "latitude": 10.7892027649838
+    }
+  },
+  {
+    "id": "5deb576d1dc17d7c5515acf9",
+    "code": "ITS 2.1-1",
+    "name": "Nút giao Công Trường Dân Chủ",
+    "location": {
+      "longitude": 106.68202,
+      "latitude": 10.777768
+    }
+  },
+  {
+    "id": "584e734a61cfea0012cf694f",
+    "code": "TTH 21.37",
+    "name": "Quốc lộ 1 - Lê Trọng Tấn",
+    "location": {
+      "longitude": 106.60130739212,
+      "latitude": 10.8162345391232
+    }
+  },
+  {
+    "id": "589ad89eb3bf7600110283ac",
+    "code": "TTH 46.1",
+    "name": "Tô Ký (Tỉnh lộ 15) - Hẻm 146",
+    "location": {
+      "longitude": 106.633611917496,
+      "latitude": 10.8486167661312
+    }
+  },
+  {
+    "id": "5deb576d1dc17d7c5515ad0d",
+    "code": "ITS 7.3",
+    "name": "Lê Lợi - Pasteur",
+    "location": {
+      "longitude": 106.700909,
+      "latitude": 10.774816
+    }
+  },
+  {
+    "id": "5b87c386ca057700116404a6",
+    "code": "TTH 60.4",
+    "name": "Đường hầm (Đầu hầm Tp Thủ Đức)",
+    "location": {
+      "longitude": 106.715902090073,
+      "latitude": 10.7710432140034
+    }
+  },
+  {
+    "id": "5d8cd542766c880017188948",
+    "code": "TTH 146",
+    "name": "Võ Văn Ngân - Đặng Văn Bi",
+    "location": {
+      "longitude": 106.757980585098,
+      "latitude": 10.8511456568495
+    }
+  },
+  {
+    "id": "5a823d555058170011f6eaa2",
+    "code": "TTH 101.1",
+    "name": "Lý Tự Trọng - Hai Bà Trưng 1",
+    "location": {
+      "longitude": 106.702115535736,
+      "latitude": 10.7791113331904
+    }
+  },
+  {
+    "id": "5701e22bc4350a1100e26f6c",
+    "code": "TTH 1a",
+    "name": "Nguyễn Công Trứ - Calmette 1",
+    "location": {
+      "longitude": 106.699680089951,
+      "latitude": 10.7671171078657
+    }
+  },
+  {
+    "id": "587c8183b807da0011e33d3f",
+    "code": "TTH 27.2",
+    "name": "Hoàng Văn Thụ - Trần Quốc Hoàn",
+    "location": {
+      "longitude": 106.662268638611,
+      "latitude": 10.8013067666529
+    }
+  },
+  {
+    "id": "5b632950fd4edb0019c7dc07",
+    "code": "TTH 131",
+    "name": "Nguyễn Văn Cừ - Trần Hưng Đạo 3",
+    "location": {
+      "longitude": 106.684874296188,
+      "latitude": 10.7568773715932
+    }
+  },
+  {
+    "id": "5deb576d1dc17d7c5515ad06",
+    "code": "ITS 4.2",
+    "name": "Đinh Tiên Hoàng - Nguyễn Đình Chiểu",
+    "location": {
+      "longitude": 106.699558,
+      "latitude": 10.788566
+    }
+  },
+  {
+    "id": "63ae7669bfd3d90017e8f0d9",
+    "code": "TTH 183.1",
+    "name": "Khánh Hội - Cầu Kênh Tẻ",
+    "location": {
+      "longitude": 106.702179908752,
+      "latitude": 10.7528720275909
+    }
+  },
+  {
+    "id": "56de42f611f398ec0c4812a1",
+    "code": "TTH 22.3",
+    "name": "Nút giao Mỹ Thủy 1",
+    "location": {
+      "longitude": 106.7747069,
+      "latitude": 10.769926
+    }
+  },
+  {
+    "id": "5a8279865058170011f6eaef",
+    "code": "TTH 122.2",
+    "name": "Nguyễn Văn Linh - Phạm Hùng 2",
+    "location": {
+      "longitude": 106.677889823914,
+      "latitude": 10.7275738904052
+    }
+  },
+  {
+    "id": "63b65e6abfd3d90017eaa361",
+    "code": "TTH 232",
+    "name": "Nguyễn Thị Định - Thân Văn Nhiếp",
+    "location": {
+      "longitude": 106.754236221313,
+      "latitude": 10.7903304548658
+    }
+  },
+  {
+    "id": "56f11afc3ac17b11001c504e",
+    "code": "TTH 31",
+    "name": "Trường Sơn - Phan Đình Giót",
+    "location": {
+      "longitude": 106.664215922356,
+      "latitude": 10.8048741133609
+    }
+  },
+  {
+    "id": "585b2b1ec3f96200127dc505",
+    "code": "TTH 37.3",
+    "name": "Nguyễn Văn Linh - Huỳnh Tấn Phát 1",
+    "location": {
+      "longitude": 106.728594303131,
+      "latitude": 10.7528825680397
+    }
+  },
+  {
+    "id": "5a825b7d5058170011f6ead4",
+    "code": "TTH 117.3",
+    "name": "Nguyễn Văn Linh - Nguyễn Hữu Thọ (3)",
+    "location": {
+      "longitude": 106.700441837311,
+      "latitude": 10.7282010989927
+    }
+  },
+  {
+    "id": "5a6069238576340017d0661c",
+    "code": "TTH 44.6",
+    "name": "Bạch Đằng - Lê Quang Định",
+    "location": {
+      "longitude": 106.698435544968,
+      "latitude": 10.8026188385378
+    }
+  },
+  {
+    "id": "63ae7829bfd3d90017e8f1ac",
+    "code": "TTH 188.2",
+    "name": "Nguyễn Tất Thành - Cầu Tân Thuận 1",
+    "location": {
+      "longitude": 106.719351410866,
+      "latitude": 10.7564346782916
+    }
+  },
+  {
+    "id": "56de42f611f398ec0c481298",
+    "code": "TTH 18.1",
+    "name": "Võ Văn Kiệt - An Dương Vương 1",
+    "location": {
+      "longitude": 106.61993265152,
+      "latitude": 10.7263616348268
+    }
+  },
+  {
+    "id": "63ae75f9bfd3d90017e8f097",
+    "code": "TTH 181.2",
+    "name": "Cao Thắng – Võ Văn Tần 2",
+    "location": {
+      "longitude": 106.682116985321,
+      "latitude": 10.7700103105034
+    }
+  },
+  {
+    "id": "63ae78ccbfd3d90017e8f1f9",
+    "code": "TTH 190",
+    "name": "Trần Hưng Đạo – Nguyễn Biểu 2",
+    "location": {
+      "longitude": 106.683876514435,
+      "latitude": 10.7558233388544
+    }
+  },
+  {
+    "id": "5990ffdbbec3b90016d2ad2d",
+    "code": "TTH 60.2",
+    "name": "Đường hầm (Đầu hầm Tp Thủ Đức)",
+    "location": {
+      "longitude": 106.713402271271,
+      "latitude": 10.7705847317646
+    }
+  },
+  {
+    "id": "587654d3b807da0011e33d36",
+    "code": "TTH 22.12",
+    "name": "Võ Chí Công - Đường số 2",
+    "location": {
+      "longitude": 106.767582893372,
+      "latitude": 10.7625480044979
+    }
+  },
+  {
+    "id": "63b54cffbfd3d90017ea7ad0",
+    "code": "TTH 225",
+    "name": "Tỉnh lộ 43 - Chân cầu Gò Dưa",
+    "location": {
+      "longitude": 106.732392311096,
+      "latitude": 10.8730512767713
+    }
+  },
+  {
+    "id": "63b54d27bfd3d90017ea7ae5",
+    "code": "TTH 226",
+    "name": "Xa lộ Hà Nội - Đường D1",
+    "location": {
+      "longitude": 106.787774562836,
+      "latitude": 10.8581948267685
+    }
+  },
+  {
+    "id": "58744f1fb807da0011e33cbd",
+    "code": "TTH 43.1",
+    "name": "Hưng Phú - Chánh Hưng 1",
+    "location": {
+      "longitude": 106.668984889984,
+      "latitude": 10.7459679545654
+    }
+  },
+  {
+    "id": "5d8cd8e2766c880017188958",
+    "code": "TTH 154",
+    "name": "Phạm Văn Đồng - Hiệp Bình (hướng đi Sân bay)",
+    "location": {
+      "longitude": 106.732848286629,
+      "latitude": 10.8374050930507
+    }
+  },
+  {
+    "id": "5a8259035058170011f6eacf",
+    "code": "TTH 117.1",
+    "name": "Nguyễn Văn Linh - Nguyễn Hữu Thọ (1)",
+    "location": {
+      "longitude": 106.700549125671,
+      "latitude": 10.7291234621994
+    }
+  },
+  {
+    "id": "63b54fe4bfd3d90017ea7ca2",
+    "code": "TTH 231.1",
+    "name": "Nút giao Mỹ Thủy (5)",
+    "location": {
+      "longitude": 106.775146722794,
+      "latitude": 10.7701684082075
+    }
+  },
+  {
+    "id": "63b54938bfd3d90017ea77f6",
+    "code": "TTH 212",
+    "name": "Nguyễn Duy Trinh - Lã Xuân Oai",
+    "location": {
+      "longitude": 106.817160844803,
+      "latitude": 10.8055485847835
+    }
+  },
+  {
+    "id": "5a6086e88576340017d0668a",
+    "code": "IDICO-QL1 30",
+    "name": "QL1-Cty Pouyuen (1)",
+    "location": {
+      "longitude": 106.594237089157,
+      "latitude": 10.7485662234825
+    }
+  },
+  {
+    "id": "5d8cd98d766c88001718895a",
+    "code": "TTH 155",
+    "name": "Phạm Văn Đồng - Tô Ngọc Vân (hướng đi Bình Dương)",
+    "location": {
+      "longitude": 106.751462817192,
+      "latitude": 10.8533952979021
+    }
+  },
+  {
+    "id": "586e2995f9fab7001111b0b5",
+    "code": "TTH 40.1",
+    "name": "Ung Văn Khiêm - Nguyễn Gia Trí (D2)",
+    "location": {
+      "longitude": 106.716395616531,
+      "latitude": 10.8075192972885
+    }
+  },
+  {
+    "id": "56de42f611f398ec0c481282",
+    "code": "TTH 3.2",
+    "name": "Mai Chí Thọ - Đồng Văn Cống 2",
+    "location": {
+      "longitude": 106.74994468689,
+      "latitude": 10.7876851195878
+    }
+  },
+  {
+    "id": "56df8198c062921100c143dd",
+    "code": "TTH 32.3",
+    "name": "Nút giao Thủ Đức (Võ Văn Ngân)",
+    "location": {
+      "longitude": 106.773784160614,
+      "latitude": 10.8492753334826
+    }
+  },
+  {
+    "id": "5a6066608576340017d06617",
+    "code": "TTH 21.85",
+    "name": "Quang Trung - Tân Sơn",
+    "location": {
+      "longitude": 106.647216081619,
+      "latitude": 10.839438820585
+    }
+  },
+  {
+    "id": "56de42f611f398ec0c48127e",
+    "code": "TTH 1.2",
+    "name": "Mai Chí Thọ - Xa lộ Hà Nội (Cát Lái cầu B)",
+    "location": {
+      "longitude": 106.754064559937,
+      "latitude": 10.8062546704304
+    }
+  },
+  {
+    "id": "56f8d743025e9511002786c5",
+    "code": "TTH 29.2",
+    "name": "Trường Sơn - Ga Quốc Nội 1",
+    "location": {
+      "longitude": 106.665004491806,
+      "latitude": 10.8123880609396
+    }
+  },
+  {
+    "id": "595dd3a63dcfc400106f28a7",
+    "code": "TTH 21.64",
+    "name": "Quốc lộ 1 - Đường Tô Ngọc Vân 1",
+    "location": {
+      "longitude": 106.671018004417,
+      "latitude": 10.8617667641718
+    }
+  },
+  {
+    "id": "5a8266105058170011f6eadf",
+    "code": "TTH 121.2",
+    "name": "Nguyễn Văn Linh - Quốc lộ 50 (2)",
+    "location": {
+      "longitude": 106.655761599541,
+      "latitude": 10.7190774577163
+    }
+  },
+  {
+    "id": "585b2980c3f96200127dc502",
+    "code": "TTH 37.2",
+    "name": "Huỳnh Tấn Phát - Lưu Trọng Lư 2",
+    "location": {
+      "longitude": 106.727993488312,
+      "latitude": 10.755127675229
+    }
+  },
+  {
+    "id": "56de42f611f398ec0c481284",
+    "code": "TTH 5a",
+    "name": "Nguyễn Thị Minh Khai - Nguyễn Thiện Thuật",
+    "location": {
+      "longitude": 106.682481765747,
+      "latitude": 10.7664899801327
+    }
+  },
+  {
+    "id": "5a82602c5058170011f6ead9",
+    "code": "TTH 119.1",
+    "name": "Vĩnh Lộc - Nguyễn Thị Tú 1",
+    "location": {
+      "longitude": 106.579173803329,
+      "latitude": 10.8135788937036
+    }
+  },
+  {
+    "id": "587ee7d7b807da0011e33d55",
+    "code": "TTH 44.2",
+    "name": "Phan Đăng Lưu - Nơ Trang Long",
+    "location": {
+      "longitude": 106.694852113724,
+      "latitude": 10.8031879281753
+    }
+  },
+  {
+    "id": "63ae7a08bfd3d90017e8f285",
+    "code": "TTH 196.1",
+    "name": "Ba Tháng Hai - Lê Hồng Phong 1",
+    "location": {
+      "longitude": 106.673265695572,
+      "latitude": 10.7710959130666
+    }
+  },
+  {
+    "id": "5deb576d1dc17d7c5515ad12",
+    "code": "ITS 7.51",
+    "name": "Nam Kỳ Khởi Nghĩa - Lê Lợi",
+    "location": {
+      "longitude": 106.70004,
+      "latitude": 10.7731
+    }
+  },
+  {
+    "id": "5deb576d1dc17d7c5515ad17",
+    "code": "ITS 8.5",
+    "name": "Nguyễn Thị Minh Khai - Hai Bà Trưng",
+    "location": {
+      "longitude": 106.698076,
+      "latitude": 10.782987
+    }
+  },
+  {
+    "id": "63ae7893bfd3d90017e8f1e1",
+    "code": "TTH 189",
+    "name": "Nguyễn Tất Thành - Lê Văn Linh",
+    "location": {
+      "longitude": 106.707345843315,
+      "latitude": 10.7643450880206
+    }
+  },
+  {
+    "id": "56df8544c062921100c143e6",
+    "code": "TTH 29.1",
+    "name": "Trường Sơn - Ga Quốc Tế",
+    "location": {
+      "longitude": 106.665363907814,
+      "latitude": 10.8136315853096
+    }
+  },
+  {
+    "id": "595ddb493dcfc400106f28b6",
+    "code": "TTH 21.71",
+    "name": "Quốc lộ 1 - Cầu vượt Tân Thới Hiệp 2",
+    "location": {
+      "longitude": 106.649731993675,
+      "latitude": 10.8620881310764
+    }
+  },
+  {
+    "id": "5a823ba75058170011f6ea9e",
+    "code": "TTH 100.1",
+    "name": "Trần Hưng Đạo - Nguyễn Thái Học 1",
+    "location": {
+      "longitude": 106.695769429207,
+      "latitude": 10.7682501504601
+    }
+  },
+  {
+    "id": "5a60604f8576340017d0660b",
+    "code": "TTH 24.5",
+    "name": "Nguyễn Thái Sơn - Nguyễn Văn Nghi 2",
+    "location": {
+      "longitude": 106.686376333237,
+      "latitude": 10.8243172516762
+    }
+  },
+  {
+    "id": "5d8cd9cb766c88001718895c",
+    "code": "TTH 156",
+    "name": "Phạm Văn Đồng - Tô Ngọc Vân (hướng đi Sân bay)",
+    "location": {
+      "longitude": 106.751317977905,
+      "latitude": 10.8536007677866
+    }
+  },
+  {
+    "id": "589b4379b3bf7600110283c9",
+    "code": "TTH 47.5",
+    "name": "QL 22 - Giáp Hải",
+    "location": {
+      "longitude": 106.481675505638,
+      "latitude": 10.9713380309812
+    }
+  },
+  {
+    "id": "5a8256315058170011f6eac9",
+    "code": "TTH 109.2",
+    "name": "Đinh Bộ Lĩnh - Nguyễn Xí",
+    "location": {
+      "longitude": 106.709566712379,
+      "latitude": 10.8133575888573
+    }
+  },
+  {
+    "id": "5ad064b498d8fc001102e26f",
+    "code": "TTH 125.2",
+    "name": "Lã Xuân Oai - Cầu Tăng Long (2)",
+    "location": {
+      "longitude": 106.805992126465,
+      "latitude": 10.827699912827
+    }
+  },
+  {
+    "id": "58af8d68bd82540010390c2e",
+    "code": "TTH 35.5",
+    "name": "Nam Kỳ Khởi Nghĩa - Điện Biên Phủ 2",
+    "location": {
+      "longitude": 106.690700054169,
+      "latitude": 10.7833376554873
+    }
+  },
+  {
+    "id": "5b728aafca0577001163ff7e",
+    "code": "TTH 136",
+    "name": "Hồng Bàng - Châu Văn Liêm",
+    "location": {
+      "longitude": 106.658910512924,
+      "latitude": 10.7548430851016
+    }
+  },
+  {
+    "id": "63ae7966bfd3d90017e8f240",
+    "code": "TTH 193",
+    "name": "Cách Mạng Tháng Tám - Tô Hiến Thành",
+    "location": {
+      "longitude": 106.672096252441,
+      "latitude": 10.7828791919741
+    }
+  },
+  {
+    "id": "5deb576d1dc17d7c5515ad21",
+    "code": "ITS 10.2-1",
+    "name": "Nút giao Ngã sáu Nguyễn Tri Phương",
+    "location": {
+      "longitude": 106.668851,
+      "latitude": 10.759539
+    }
+  },
+  {
+    "id": "58ad69c4bd82540010390be7",
+    "code": "TTH 34.10",
+    "name": "Nút giao Phú Nhuận 2 (Phan Đăng Lưu)",
+    "location": {
+      "longitude": 106.680368185043,
+      "latitude": 10.7993096663153
+    }
+  },
+  {
+    "id": "56de42f611f398ec0c481289",
+    "code": "TTH 7.2",
+    "name": "Võ Văn Kiệt - Cầu Ông Lãnh 2",
+    "location": {
+      "longitude": 106.698285341263,
+      "latitude": 10.7639024056841
+    }
+  },
+  {
+    "id": "63b54898bfd3d90017ea77ae",
+    "code": "TTH 209",
+    "name": "Nguyễn Duy Trinh - Bưng Ông Thoàn",
+    "location": {
+      "longitude": 106.796894073486,
+      "latitude": 10.7912052020479
+    }
+  },
+  {
+    "id": "63b549b8bfd3d90017ea782c",
+    "code": "TTH 215",
+    "name": "Đỗ Xuân Hợp - Tây Hòa",
+    "location": {
+      "longitude": 106.769192218781,
+      "latitude": 10.8244331690453
+    }
+  },
+  {
+    "id": "56f8e7c9025e9511002786d1",
+    "code": "TTH 60",
+    "name": "Đường hầm (Đầu hầm Tp Thủ Đức)",
+    "location": {
+      "longitude": 106.714040637016,
+      "latitude": 10.7706637804763
+    }
+  },
+  {
+    "id": "5a6085688576340017d06684",
+    "code": "IDICO-QL1 27",
+    "name": "QL1-Tỉnh lộ 10 (3)",
+    "location": {
+      "longitude": 106.591758728027,
+      "latitude": 10.756524271036
+    }
+  },
+  {
+    "id": "5a823bd55058170011f6eaa0",
+    "code": "TTH 100.2",
+    "name": "Trần Hưng Đạo - Nguyễn Thái Học 2",
+    "location": {
+      "longitude": 106.695860624313,
+      "latitude": 10.7675334356397
+    }
+  },
+  {
+    "id": "63b54996bfd3d90017ea781a",
+    "code": "TTH 214",
+    "name": "Đỗ Xuân Hợp - Dương Đình Hội",
+    "location": {
+      "longitude": 106.774277687073,
+      "latitude": 10.8167087590452
+    }
+  },
+  {
+    "id": "56de42f611f398ec0c481283",
+    "code": "TTH 4.1",
+    "name": "Mai Chí Thọ - Trần Não 1",
+    "location": {
+      "longitude": 106.72761797905,
+      "latitude": 10.775796632403
+    }
+  },
+  {
+    "id": "5d8cdcf0766c880017188972",
+    "code": "TTH 167",
+    "name": "Nút giao Lê Đại Hành 1 (Bình Thới)",
+    "location": {
+      "longitude": 106.651834845543,
+      "latitude": 10.7688034952946
+    }
+  },
+  {
+    "id": "56df8274c062921100c143df",
+    "code": "TTH 33.1",
+    "name": "Xa Lộ Hà Nội - Tây Hòa 1",
+    "location": {
+      "longitude": 106.761032938957,
+      "latitude": 10.8264933293527
+    }
+  },
+  {
+    "id": "591c6cdfa6bfb500119400aa",
+    "code": "TTH 48.11",
+    "name": "Cầu Rạch Dơi (Hướng LA)",
+    "location": {
+      "longitude": 106.687030792236,
+      "latitude": 10.6558000073154
+    }
+  },
+  {
+    "id": "589b39d9b3bf7600110283c1",
+    "code": "TTH 47.2",
+    "name": "QL 22 - Nguyễn Ảnh Thủ 2",
+    "location": {
+      "longitude": 106.607159972191,
+      "latitude": 10.8554657956616
+    }
+  },
+  {
+    "id": "587461c1b807da0011e33cc8",
+    "code": "TTH 21.4",
+    "name": "Quốc lộ 1 - KCX Linh Trung 2",
+    "location": {
+      "longitude": 106.765501499176,
+      "latitude": 10.8735570152435
+    }
+  },
+  {
+    "id": "56df81d8c062921100c143de",
+    "code": "TTH 32.2",
+    "name": "Nút giao Thủ Đức (trên cầu)",
+    "location": {
+      "longitude": 106.774009466171,
+      "latitude": 10.8491804998734
+    }
+  },
+  {
+    "id": "583f926761cfea0012cf68f1",
+    "code": "TTH 22.9",
+    "name": "Nguyễn Thị Định - Cổng A Cảng Cát Lái",
+    "location": {
+      "longitude": 106.786578297615,
+      "latitude": 10.7599709364081
+    }
+  },
+  {
+    "id": "63ae76afbfd3d90017e8f106",
+    "code": "TTH 184",
+    "name": "Khánh Hội - Đường số 41",
+    "location": {
+      "longitude": 106.699776649475,
+      "latitude": 10.7579524811918
+    }
+  },
+  {
+    "id": "63b661a3bfd3d90017eaa520",
+    "code": "TTH 242.4",
+    "name": "Nguyễn Tất Thành - Cảng SG (Q4-Q7)",
+    "location": {
+      "longitude": 106.713321805,
+      "latitude": 10.7596125693667
+    }
+  },
+  {
+    "id": "63ae73cebfd3d90017e8f00d",
+    "code": "TTH 180.1",
+    "name": "Nguyễn Thị Minh Khai - Cống Quỳnh",
+    "location": {
+      "longitude": 106.684235930443,
+      "latitude": 10.7680815118322
+    }
+  },
+  {
+    "id": "5a6084898576340017d06680",
+    "code": "IDICO-QL1 24",
+    "name": "QL1 - Tân Tạo Chợ Đệm 3",
+    "location": {
+      "longitude": 106.590535640717,
+      "latitude": 10.7642238774455
+    }
+  },
+  {
+    "id": "56de42f611f398ec0c48129b",
+    "code": "TTH 19.2",
+    "name": "Võ Văn Kiệt - Hồ Học Lãm 2",
+    "location": {
+      "longitude": 106.611467599869,
+      "latitude": 10.721839351587
+    }
+  },
+  {
+    "id": "586e2492f9fab7001111b0ab",
+    "code": "TTH 34.2",
+    "name": "Nguyễn Văn Trỗi - Nguyễn Đình Chính",
+    "location": {
+      "longitude": 106.675336360931,
+      "latitude": 10.7955947082032
+    }
+  },
+  {
+    "id": "5b0b7aba0e517b00119fd800",
+    "code": "TTH 126.1",
+    "name": "Nguyễn Văn Cừ - Trần Hưng Đạo 1",
+    "location": {
+      "longitude": 106.685024499893,
+      "latitude": 10.7565084605536
+    }
+  },
+  {
+    "id": "587479b1b807da0011e33cf9",
+    "code": "TTH 28.8",
+    "name": "Trường Chinh - Tây Thạnh 2",
+    "location": {
+      "longitude": 106.628301143646,
+      "latitude": 10.8189533898328
+    }
+  },
+  {
+    "id": "62da3e620637a10017d70720",
+    "code": "TTH 268.2",
+    "name": "Quốc Lộ 13 - Nguyễn Thị Thi 2",
+    "location": {
+      "longitude": 106.718176603317,
+      "latitude": 10.8456979781692
+    }
+  },
+  {
+    "id": "63b54909bfd3d90017ea77e4",
+    "code": "TTH 211.2",
+    "name": "Nguyễn Duy Trinh - Võ Chí Công 2",
+    "location": {
+      "longitude": 106.792902946472,
+      "latitude": 10.7909838807122
+    }
+  },
+  {
+    "id": "5d9de43b766c880017188cb6",
+    "code": "TTH 1.6",
+    "name": "Cao tốc LTDG - Đỗ Xuân Hợp 1",
+    "location": {
+      "longitude": 106.778896450996,
+      "latitude": 10.7965537514336
+    }
+  },
+  {
+    "id": "5a8250cc5058170011f6eaba",
+    "code": "TTH 105.1",
+    "name": "Lê Văn Việt - Đình Phong Phú 1",
+    "location": {
+      "longitude": 106.78128361702,
+      "latitude": 10.8445494220268
+    }
+  },
+  {
+    "id": "5d8cd3b7766c880017188942",
+    "code": "TTH 143",
+    "name": "Lê Hồng Phong - Nguyễn Trãi",
+    "location": {
+      "longitude": 106.678184866905,
+      "latitude": 10.7573411448313
+    }
+  },
+  {
+    "id": "56de42f611f398ec0c48129a",
+    "code": "TTH 19.1",
+    "name": "Võ Văn Kiệt - Hồ Học Lãm 1",
+    "location": {
+      "longitude": 106.610904335976,
+      "latitude": 10.722239929521
+    }
+  },
+  {
+    "id": "63b54968bfd3d90017ea7808",
+    "code": "TTH 213",
+    "name": "Nguyễn Duy Trinh - Đỗ Xuân Hợp",
+    "location": {
+      "longitude": 106.781616210938,
+      "latitude": 10.7904358462274
+    }
+  },
+  {
+    "id": "5d8cdac3766c880017188962",
+    "code": "TTH 159",
+    "name": "Trường Chinh - Đồng Đen",
+    "location": {
+      "longitude": 106.645912528038,
+      "latitude": 10.7970385413523
+    }
+  },
+  {
+    "id": "587ef5dfb807da0011e33d59",
+    "code": "TTH 34.8",
+    "name": "Nguyễn Văn Trỗi - Huỳnh Văn Bánh",
+    "location": {
+      "longitude": 106.679853200912,
+      "latitude": 10.7928914544929
+    }
+  },
+  {
+    "id": "5d8cdbdc766c88001718896a",
+    "code": "TTH 163",
+    "name": "Hoàng Văn Thụ - Cộng Hòa",
+    "location": {
+      "longitude": 106.660782694817,
+      "latitude": 10.8006744408059
+    }
+  },
+  {
+    "id": "5deb576d1dc17d7c5515ad13",
+    "code": "ITS 7.52",
+    "name": "Pasteur - Lê Thánh Tôn",
+    "location": {
+      "longitude": 106.700359,
+      "latitude": 10.775708
+    }
+  },
+  {
+    "id": "5deb576d1dc17d7c5515acf2",
+    "code": "ITS 1.1",
+    "name": "Điện Biên Phủ - Cách Mạng Tháng Tám",
+    "location": {
+      "longitude": 106.683694124222,
+      "latitude": 10.7765712954739
+    }
+  },
+  {
+    "id": "63b54d5abfd3d90017ea7afe",
+    "code": "TTH 227",
+    "name": "Đường số 1 - Cảng Phước Long",
+    "location": {
+      "longitude": 106.755888462067,
+      "latitude": 10.8266672041268
+    }
+  },
+  {
+    "id": "5a824e465058170011f6eab4",
+    "code": "TTH 115.2",
+    "name": "Quang Trung - Lê Văn Thọ (2)",
+    "location": {
+      "longitude": 106.658325791359,
+      "latitude": 10.8366990807787
+    }
+  },
+  {
+    "id": "63b54c93bfd3d90017ea7ab8",
+    "code": "TTH 224",
+    "name": "Lê Văn Chí - Linh Trung",
+    "location": {
+      "longitude": 106.777850389481,
+      "latitude": 10.8589007882855
+    }
+  },
+  {
+    "id": "5b19d34faf4ff60011d6ea52",
+    "code": "TTH 120.2",
+    "name": "Nguyễn Tất Thành - Tôn Đản",
+    "location": {
+      "longitude": 106.708472371101,
+      "latitude": 10.7625638146636
+    }
+  },
+  {
+    "id": "58af99abbd82540010390c39",
+    "code": "TTH 36.2",
+    "name": "Nguyễn Hữu Cảnh - Nguyễn Bỉnh Khiêm",
+    "location": {
+      "longitude": 106.707914471626,
+      "latitude": 10.7846234574745
+    }
+  },
+  {
+    "id": "63b3c9bfbfd3d90017e9b039",
+    "code": "TTH 208",
+    "name": "Kha Vạn Cân - Đường Số 2",
+    "location": {
+      "longitude": 106.746854782104,
+      "latitude": 10.8418834903115
+    }
+  },
+  {
+    "id": "5deb576d1dc17d7c5515acf4",
+    "code": "ITS 1.3-1",
+    "name": "Nút giao Ngã bảy Lý Thái Tổ",
+    "location": {
+      "longitude": 106.674156,
+      "latitude": 10.767465
+    }
+  },
+  {
+    "id": "59ca321b02eb490011a0a40d",
+    "code": "IDICO-QL1 34",
+    "name": "QL1 - Cầu An Lập",
+    "location": {
+      "longitude": 106.601784825325,
+      "latitude": 10.7286174804458
+    }
+  },
+  {
+    "id": "589d0b74b3bf7600110283d4",
+    "code": "TTH 49.4",
+    "name": "Cầu Sài Gòn 4 (Thủ Đức 1)",
+    "location": {
+      "longitude": 106.730428934097,
+      "latitude": 10.7997417577515
+    }
+  },
+  {
+    "id": "5a82439f5058170011f6eaa9",
+    "code": "TTH 103",
+    "name": "Nguyễn Biểu - Cầu Chữ Y",
+    "location": {
+      "longitude": 106.68364584446,
+      "latitude": 10.75113811876
+    }
+  },
+  {
+    "id": "58d7c20ac1e33c00112b321c",
+    "code": "TTH 45.4",
+    "name": "Phạm Văn Đồng - Phan Văn Trị 2",
+    "location": {
+      "longitude": 106.69480919838,
+      "latitude": 10.8207659432755
+    }
+  },
+  {
+    "id": "56df807bc062921100c143da",
+    "code": "TTH 28.3",
+    "name": "Trường Chinh - Âu Cơ",
+    "location": {
+      "longitude": 106.63648724556,
+      "latitude": 10.8019180137061
+    }
+  },
+  {
+    "id": "63ae7a74bfd3d90017e8f2c7",
+    "code": "TTH 198",
+    "name": "Tô Hiến Thành – Sư Vạn Hạnh",
+    "location": {
+      "longitude": 106.665540933609,
+      "latitude": 10.7778940148849
+    }
+  },
+  {
+    "id": "5a6085188576340017d06682",
+    "code": "IDICO-QL1 26",
+    "name": "QL1-Tỉnh lộ 10 (2)",
+    "location": {
+      "longitude": 106.592434644699,
+      "latitude": 10.7563292750288
+    }
+  },
+  {
+    "id": "59d3414302eb490011a0a610",
+    "code": "TTH 33.6",
+    "name": "Xa Lộ Hà Nội - Đường 120",
+    "location": {
+      "longitude": 106.803814172745,
+      "latitude": 10.8674828287814
+    }
+  },
+  {
+    "id": "63ae7a9cbfd3d90017e8f303",
+    "code": "TTH 199",
+    "name": "Điện Biên Phủ – Cao Thắng",
+    "location": {
+      "longitude": 106.679091453552,
+      "latitude": 10.7727295794518
+    }
+  },
+  {
+    "id": "5a606a0f8576340017d0661e",
+    "code": "TTH 44.7",
+    "name": "Nơ Trang Long - Nguyễn Xí",
+    "location": {
+      "longitude": 106.704116463661,
+      "latitude": 10.8200809679719
+    }
+  },
+  {
+    "id": "56de42f611f398ec0c481286",
+    "code": "TTH 5.2",
+    "name": "Mai Chí Thọ - Nguyễn Cơ Thạch 2",
+    "location": {
+      "longitude": 106.722918748856,
+      "latitude": 10.7733830435244
+    }
+  },
+  {
+    "id": "591c6467a6bfb50011940096",
+    "code": "TTH 48.3",
+    "name": "Cầu Rạch Tôm (Long An)",
+    "location": {
+      "longitude": 106.697888374329,
+      "latitude": 10.6722901031326
+    }
+  },
+  {
+    "id": "5deb576d1dc17d7c5515ad1a",
+    "code": "ITS 8.51",
+    "name": "Pasteur - Lê Duẩn",
+    "location": {
+      "longitude": 106.697417,
+      "latitude": 10.779127
+    }
+  },
+  {
+    "id": "5deb576d1dc17d7c5515ad0b",
+    "code": "ITS 7.1",
+    "name": "Nam Kỳ Khởi Nghĩa - Lý Tự Trọng",
+    "location": {
+      "longitude": 106.699042,
+      "latitude": 10.775615
+    }
+  },
+  {
+    "id": "58df50ffdc195800111e04c0",
+    "code": "TTH 26.7",
+    "name": "Cộng Hòa - Thăng Long",
+    "location": {
+      "longitude": 106.660755872726,
+      "latitude": 10.8009484488364
+    }
+  },
+  {
+    "id": "5a6087858576340017d0668e",
+    "code": "IDICO-QL1 32",
+    "name": "QL1-Trạm Biến Áp 500Kv Phú Lâm",
+    "location": {
+      "longitude": 106.598871946335,
+      "latitude": 10.7414565055181
+    }
+  },
+  {
+    "id": "587464e2b807da0011e33cd9",
+    "code": "TTH 21.11",
+    "name": "Cầu vượt nút giao thông Gò Dưa",
+    "location": {
+      "longitude": 106.733132600784,
+      "latitude": 10.8699588780888
+    }
+  },
+  {
+    "id": "58ad6214bd82540010390be2",
+    "code": "TTH 38.8",
+    "name": "Cộng Hòa - Hoàng Hoa Thám",
+    "location": {
+      "longitude": 106.647366285324,
+      "latitude": 10.8013120360293
+    }
+  },
+  {
+    "id": "63b54c51bfd3d90017ea7aa0",
+    "code": "TTH 223",
+    "name": "Đường số 1 - Nguyễn Văn Bá",
+    "location": {
+      "longitude": 106.760228276253,
+      "latitude": 10.8266882798502
+    }
+  },
+  {
+    "id": "58afdbaebd82540010390c48",
+    "code": "TTH 21.42",
+    "name": "Quốc lộ 1 - Cao tốc Trung Lương",
+    "location": {
+      "longitude": 106.592531204224,
+      "latitude": 10.689411864849
+    }
+  },
+  {
+    "id": "5deb576d1dc17d7c5515ad09",
+    "code": "ITS 6.51",
+    "name": "Trường Chinh - Hoàng Hoa Thám",
+    "location": {
+      "longitude": 106.647017598152,
+      "latitude": 10.7964536316791
+    }
+  },
+  {
+    "id": "58af8a0bbd82540010390c25",
+    "code": "TTH 35.3",
+    "name": "Nam Kỳ Khởi Nghĩa - Võ Thị Sáu",
+    "location": {
+      "longitude": 106.688543558121,
+      "latitude": 10.784533873088
+    }
+  },
+  {
+    "id": "56de42f611f398ec0c48128e",
+    "code": "TTH 10.2",
+    "name": "Võ Văn Kiệt - Cầu Chữ Y 2",
+    "location": {
+      "longitude": 106.684101819992,
+      "latitude": 10.7514332528817
+    }
+  },
+  {
+    "id": "587ef859b807da0011e33d5b",
+    "code": "TTH 45.1",
+    "name": "Phạm Văn Đồng - Lê Quang Định 2",
+    "location": {
+      "longitude": 106.689868569374,
+      "latitude": 10.8200546227367
+    }
+  },
+  {
+    "id": "58744e97b807da0011e33cb9",
+    "code": "TTH 42.3",
+    "name": "Dương Bá Trạc - Tạ Quang Bửu 2",
+    "location": {
+      "longitude": 106.689042448998,
+      "latitude": 10.7469851294422
+    }
+  },
+  {
+    "id": "58afcd9bbd82540010390c41",
+    "code": "TTH 21.41",
+    "name": "Quốc lộ 1 - Nguyễn Hữu Trí 2",
+    "location": {
+      "longitude": 106.596699357033,
+      "latitude": 10.6965544326304
+    }
+  },
+  {
+    "id": "63b54a9ebfd3d90017ea7911",
+    "code": "TTH 219",
+    "name": "Nguyễn Xiển - Nguyễn Văn Tăng",
+    "location": {
+      "longitude": 106.828694343567,
+      "latitude": 10.8428107736029
+    }
+  },
+  {
+    "id": "56de42f611f398ec0c48129c",
+    "code": "TTH 20.1",
+    "name": "Võ Văn Kiệt - Quốc Lộ 1",
+    "location": {
+      "longitude": 106.600942611694,
+      "latitude": 10.7170534584198
+    }
+  },
+  {
+    "id": "5bbc7163ca0577001164127f",
+    "code": "TTH 137",
+    "name": "Lê Văn Lương - Cầu Long Kiểng (HCM)",
+    "location": {
+      "longitude": 106.702550053597,
+      "latitude": 10.6895647333739
+    }
+  },
+  {
+    "id": "5b632a79fd4edb0019c7dc0f",
+    "code": "TTH 133",
+    "name": "Nguyễn Tri Phương - Trần Hưng Đạo",
+    "location": {
+      "longitude": 106.669510602951,
+      "latitude": 10.7524240581789
+    }
+  },
+  {
+    "id": "5ad0644698d8fc001102e26b",
+    "code": "TTH 125.1",
+    "name": "Lã Xuân Oai - Cầu Tăng Long (1)",
+    "location": {
+      "longitude": 106.806828975677,
+      "latitude": 10.82640375746
+    }
+  },
+  {
+    "id": "5d8cd7bb766c880017188952",
+    "code": "TTH 151",
+    "name": "Phạm Văn Đồng - Đường 20 (hướng đi Thủ Đức)",
+    "location": {
+      "longitude": 106.722747087479,
+      "latitude": 10.8289275670072
+    }
+  },
+  {
+    "id": "5a824dc05058170011f6eab2",
+    "code": "TTH 115.1",
+    "name": "Quang Trung - Lê Văn Thọ (1)",
+    "location": {
+      "longitude": 106.658180952072,
+      "latitude": 10.8366042431825
+    }
+  },
+  {
+    "id": "5d8cd49f766c880017188944",
+    "code": "TTH 144",
+    "name": "Nguyễn Tri Phương - Nguyễn Trãi",
+    "location": {
+      "longitude": 106.669499874115,
+      "latitude": 10.7547007899372
+    }
+  },
+  {
+    "id": "63ae75debfd3d90017e8f082",
+    "code": "TTH 181.1",
+    "name": "Cao Thắng – Võ Văn Tần 1",
+    "location": {
+      "longitude": 106.683501005173,
+      "latitude": 10.7688614646947
+    }
+  },
+  {
+    "id": "5a606c078576340017d06624",
+    "code": "TTH 21.16",
+    "name": "Quốc lộ 13 - Hiệp Bình",
+    "location": {
+      "longitude": 106.718916893005,
+      "latitude": 10.8495545656016
+    }
+  },
+  {
+    "id": "5deb576d1dc17d7c5515acf3",
+    "code": "ITS 1.2",
+    "name": "Ba Tháng Hai - Lý Thái Tổ",
+    "location": {
+      "longitude": 106.668459,
+      "latitude": 10.768198
+    }
+  },
+  {
+    "id": "591c67dea6bfb500119400a1",
+    "code": "TTH 48.7",
+    "name": "Cầu Rạch Đĩa (HCM)",
+    "location": {
+      "longitude": 106.697909832001,
+      "latitude": 10.724748800308
+    }
+  },
+  {
+    "id": "63ae77bfbfd3d90017e8f18f",
+    "code": "TTH 188.1",
+    "name": "Nguyễn Tất Thành - Cầu Tân Thuận 2",
+    "location": {
+      "longitude": 106.717768907547,
+      "latitude": 10.757040746338
+    }
+  },
+  {
+    "id": "5a8254b05058170011f6eac3",
+    "code": "TTH 108.1",
+    "name": "Xô Viết Nghệ Tĩnh - Nguyễn Xí 1",
+    "location": {
+      "longitude": 106.712254285812,
+      "latitude": 10.809674419948
+    }
+  },
+  {
+    "id": "5deb576d1dc17d7c5515ad1b",
+    "code": "ITS 9.1",
+    "name": "Hoàng Diệu - Cầu Ông Lãnh",
+    "location": {
+      "longitude": 106.700404,
+      "latitude": 10.761236
+    }
+  },
+  {
+    "id": "58744e3eb807da0011e33cb7",
+    "code": "TTH 42.2",
+    "name": "Dương Bá Trạc - Tạ Quang Bửu 1",
+    "location": {
+      "longitude": 106.688919067383,
+      "latitude": 10.7444131987789
+    }
+  },
+  {
+    "id": "5deb576d1dc17d7c5515ad0a",
+    "code": "ITS 6.52",
+    "name": "Hoàng Văn Thụ - Xuân Diệu",
+    "location": {
+      "longitude": 106.655729,
+      "latitude": 10.795418
+    }
+  },
+  {
+    "id": "56de42f611f398ec0c481290",
+    "code": "TTH 12.1",
+    "name": "Võ Văn Kiệt - An Bình",
+    "location": {
+      "longitude": 106.673292517662,
+      "latitude": 10.7493356862526
+    }
+  },
+  {
+    "id": "595dcab53dcfc400106f289d",
+    "code": "TTH 21.63",
+    "name": "Quốc lộ 1 - BQB Trước bến xe Ngã 4 Ga (hướng đi Bình Phước)",
+    "location": {
+      "longitude": 106.678490638733,
+      "latitude": 10.861629788009
+    }
+  },
+  {
+    "id": "5deb576d1dc17d7c5515ad05",
+    "code": "ITS 4.1",
+    "name": "Điện Biên Phủ - Đinh Tiên Hoàng",
+    "location": {
+      "longitude": 106.697491,
+      "latitude": 10.790705
+    }
+  },
+  {
+    "id": "58ad7291bd82540010390bf9",
+    "code": "TTH 44.3",
+    "name": "Phan Đăng Lưu - Nguyễn Văn Đậu",
+    "location": {
+      "longitude": 106.687197089195,
+      "latitude": 10.8038413260585
+    }
+  },
+  {
+    "id": "5a607f078576340017d0666f",
+    "code": "IDICO-QL1 07",
+    "name": "QL1-Phan Văn Hớn (H.Hoc Mon)",
+    "location": {
+      "longitude": 106.606779098511,
+      "latitude": 10.8344440453534
+    }
+  },
+  {
+    "id": "5a824ee15058170011f6eab6",
+    "code": "TTH 116.1",
+    "name": "Nguyễn Oanh - Phan Văn Trị (1)",
+    "location": {
+      "longitude": 106.67790055275,
+      "latitude": 10.8306083386046
+    }
+  },
+  {
+    "id": "5b632b60fd4edb0019c7dc12",
+    "code": "TTH 134",
+    "name": "Hồng Bàng - Ngô Quyền 1",
+    "location": {
+      "longitude": 106.666420698166,
+      "latitude": 10.7557179353779
+    }
+  },
+  {
+    "id": "587c8d97b807da0011e33d49",
+    "code": "TTH 34.4",
+    "name": "Hoàng Văn Thụ - Nguyễn Văn Trỗi 2",
+    "location": {
+      "longitude": 106.669188737869,
+      "latitude": 10.8001000770077
+    }
+  },
+  {
+    "id": "56df82d4c062921100c143e0",
+    "code": "TTH 33.2",
+    "name": "Xa Lộ Hà Nội - Tây Hòa 2",
+    "location": {
+      "longitude": 106.760866641998,
+      "latitude": 10.8264933293527
+    }
+  },
+  {
+    "id": "59414c883dcfc400106f260b",
+    "code": "TTH 38.9",
+    "name": "Cộng Hòa - Bình Giã",
+    "location": {
+      "longitude": 106.645107865334,
+      "latitude": 10.8018653200436
+    }
+  },
+  {
+    "id": "587463bab807da0011e33cd3",
+    "code": "TTH 21.8",
+    "name": "Quốc lộ 1 - Lê Thị Hoa",
+    "location": {
+      "longitude": 106.748399734497,
+      "latitude": 10.8747792130109
+    }
+  },
+  {
+    "id": "58affc6017139d0010f35cc8",
+    "code": "TTH 21.14",
+    "name": "Phạm Văn Đồng - Quốc Lộ 13 (1)",
+    "location": {
+      "longitude": 106.714013814926,
+      "latitude": 10.8262720340397
+    }
+  },
+  {
+    "id": "5deb576d1dc17d7c5515ad1c",
+    "code": "ITS 9.2",
+    "name": "Hoàng Diệu - Nguyễn Tất Thành",
+    "location": {
+      "longitude": 106.707260012627,
+      "latitude": 10.7652936908376
+    }
+  },
+  {
+    "id": "5d8cdb4b766c880017188966",
+    "code": "TTH 161",
+    "name": "Hoàng Văn Thụ - Út Tịch",
+    "location": {
+      "longitude": 106.658374071121,
+      "latitude": 10.7980555437486
+    }
+  },
+  {
+    "id": "56de42f611f398ec0c481287",
+    "code": "TTH 6.1",
+    "name": "Võ Văn Kiệt - Ký Con",
+    "location": {
+      "longitude": 106.700146794319,
+      "latitude": 10.7654781410386
+    }
+  },
+  {
+    "id": "62da3e390637a10017d706ff",
+    "code": "TTH 268.1",
+    "name": "Quốc Lộ 13 - Nguyễn Thị Thi 1",
+    "location": {
+      "longitude": 106.718230247498,
+      "latitude": 10.8444440496827
+    }
+  },
+  {
+    "id": "63b66051bfd3d90017eaa4a3",
+    "code": "TTH 240",
+    "name": "Nơ Trang Long - Phan Văn Trị",
+    "location": {
+      "longitude": 106.695485115051,
+      "latitude": 10.8112288386645
+    }
+  },
+  {
+    "id": "5deb576d1dc17d7c5515ad10",
+    "code": "ITS 7.7",
+    "name": "Cách Mạng Tháng Tám - Nguyễn Thị Minh Khai",
+    "location": {
+      "longitude": 106.689579,
+      "latitude": 10.773652
+    }
+  },
+  {
+    "id": "56f11ac33ac17b11001c504c",
+    "code": "TTH 34.1",
+    "name": "Nguyễn Văn Trỗi - Hoàng Văn Thụ 1",
+    "location": {
+      "longitude": 106.668410897255,
+      "latitude": 10.7996311002478
+    }
+  },
+  {
+    "id": "5deb576d1dc17d7c5515ad11",
+    "code": "ITS 7.5",
+    "name": "Nguyễn Đình Chiểu - Trương Định",
+    "location": {
+      "longitude": 106.689658,
+      "latitude": 10.777922
+    }
+  },
+  {
+    "id": "631813ebc9eae60017a196b0",
+    "code": "TTH 49.8",
+    "name": "Cầu Sài Gòn 6 (Thủ Đức)",
+    "location": {
+      "longitude": 106.731228232384,
+      "latitude": 10.7995520591487
+    }
+  },
+  {
+    "id": "5deb576d1dc17d7c5515ad0e",
+    "code": "ITS 7.6",
+    "name": "Cách Mạng Tháng Tám - Nguyễn Đình Chiểu",
+    "location": {
+      "longitude": 106.686639,
+      "latitude": 10.774969
+    }
+  },
+  {
+    "id": "587475abb807da0011e33cea",
+    "code": "TTH 29.3",
+    "name": "Trường Sơn - Cửu Long",
+    "location": {
+      "longitude": 106.664789915085,
+      "latitude": 10.8091738427151
+    }
+  },
+  {
+    "id": "591c64caa6bfb50011940098",
+    "code": "TTH 48.4",
+    "name": "Cầu Rạch Tôm (HCM)",
+    "location": {
+      "longitude": 106.697909832001,
+      "latitude": 10.6727118329902
+    }
+  },
+  {
+    "id": "591c6833a6bfb500119400a3",
+    "code": "TTH 48.8",
+    "name": "Cầu Rạch Đĩa (LA)",
+    "location": {
+      "longitude": 106.697738170624,
+      "latitude": 10.7239898163825
+    }
+  },
+  {
+    "id": "63ae7938bfd3d90017e8f226",
+    "code": "TTH 192",
+    "name": "Quốc Lộ 1- Công ty Pouyen 3 (Cổng)",
+    "location": {
+      "longitude": 106.595476269722,
+      "latitude": 10.7470852656437
+    }
+  },
+  {
+    "id": "5deb576d1dc17d7c5515acf8",
+    "code": "ITS 1.51",
+    "name": "Ba Tháng Hai - Cao Thắng",
+    "location": {
+      "longitude": 106.67782,
+      "latitude": 10.773823
+    }
+  },
+  {
+    "id": "59ca308302eb490011a0a403",
+    "code": "IDICO-QL1 22",
+    "name": "QL1 - Tân Tạo Chợ Đệm 1",
+    "location": {
+      "longitude": 106.590755581856,
+      "latitude": 10.7672014274613
+    }
+  },
+  {
+    "id": "63b664edbfd3d90017eaaa24",
+    "code": "TTH 243.2",
+    "name": "CT Trung Lương - Võ Trần Chí 2",
+    "location": {
+      "longitude": 106.5673828125,
+      "latitude": 10.6860381950503
+    }
+  },
+  {
+    "id": "56df83d8c062921100c143e3",
+    "code": "TTH 24.1",
+    "name": "Nút giao Nguyễn Thái Sơn 1 (Hồng Hà)",
+    "location": {
+      "longitude": 106.678351163864,
+      "latitude": 10.8140847327392
+    }
+  },
+  {
+    "id": "5deb576d1dc17d7c5515acfd",
+    "code": "ITS 2.7",
+    "name": "Lý Chính Thắng - Nguyễn Thông",
+    "location": {
+      "longitude": 106.682181358337,
+      "latitude": 10.7793063144528
+    }
+  },
+  {
+    "id": "56df8159c062921100c143dc",
+    "code": "TTH 32.1",
+    "name": "Nút giao Thủ Đức (Lê Văn Việt)",
+    "location": {
+      "longitude": 106.774283051491,
+      "latitude": 10.8490751291612
+    }
+  },
+  {
+    "id": "587ef2e4b807da0011e33d57",
+    "code": "TTH 34.7",
+    "name": "Nguyễn Văn Trỗi - Nguyễn Trọng Tuyển",
+    "location": {
+      "longitude": 106.672310829163,
+      "latitude": 10.7976866831738
+    }
+  },
+  {
+    "id": "589b3f7db3bf7600110283c6",
+    "code": "TTH 47.4",
+    "name": "QL 22 - Nguyễn Văn Bứa 2",
+    "location": {
+      "longitude": 106.586925387383,
+      "latitude": 10.8841088420888
+    }
+  },
+  {
+    "id": "649da77ea6068200171a6dd4",
+    "code": "TTH 248",
+    "name": "Tôn Đức Thắng - Công trường Mê Linh",
+    "location": {
+      "longitude": 106.70676112175,
+      "latitude": 10.775301268578
+    }
+  },
+  {
+    "id": "63b3c59fbfd3d90017e9ace8",
+    "code": "TTH 207",
+    "name": "Vĩnh Lộc - Quách Điêu",
+    "location": {
+      "longitude": 106.577596664429,
+      "latitude": 10.8125250596398
+    }
+  },
+  {
+    "id": "58b5510817139d0010f35d4e",
+    "code": "TTH 21.15",
+    "name": "Phạm Văn Đồng - Quốc Lộ 13 (2)",
+    "location": {
+      "longitude": 106.71435713768,
+      "latitude": 10.8254711543978
+    }
+  },
+  {
+    "id": "5a824c905058170011f6eab0",
+    "code": "TTH 104.3",
+    "name": "Nút giao Bốn Xã 2 (Hòa Bình)",
+    "location": {
+      "longitude": 106.62178337574,
+      "latitude": 10.7736939654481
+    }
+  },
+  {
+    "id": "5deb576d1dc17d7c5515ad16",
+    "code": "ITS 8.4",
+    "name": "Nguyễn Thị Minh Khai - Pasteur",
+    "location": {
+      "longitude": 106.695957,
+      "latitude": 10.780518
+    }
+  },
+  {
+    "id": "63ae7c73bfd3d90017e8f3ed",
+    "code": "TTH 203.2",
+    "name": "Lý Thường Kiệt - Tô Hiến Thành 2",
+    "location": {
+      "longitude": 106.658003926277,
+      "latitude": 10.7708113380158
+    }
+  },
+  {
+    "id": "586e1d4ef9fab7001111b0a2",
+    "code": "TTH 38.2",
+    "name": "Cộng Hòa - Đường C 18",
+    "location": {
+      "longitude": 106.651110649109,
+      "latitude": 10.8016071209638
+    }
+  },
+  {
+    "id": "5d8cdc9d766c880017188970",
+    "code": "TTH 166",
+    "name": "Lạc Long Quân - Âu Cơ",
+    "location": {
+      "longitude": 106.647881269455,
+      "latitude": 10.7747690150491
+    }
+  },
+  {
+    "id": "63195512c9eae60017a1c279",
+    "code": "TTH 178.1",
+    "name": "Nguyễn Trãi - Cống Quỳnh 1",
+    "location": {
+      "longitude": 106.687964200974,
+      "latitude": 10.7668272590757
+    }
+  },
+  {
+    "id": "5a8254f25058170011f6eac5",
+    "code": "TTH 108.2",
+    "name": "Xô Viết Nghệ Tĩnh - Nguyễn Xí 2",
+    "location": {
+      "longitude": 106.712415218353,
+      "latitude": 10.8102803807443
+    }
+  },
+  {
+    "id": "63ae7c53bfd3d90017e8f3d8",
+    "code": "TTH 203.1",
+    "name": "Lý Thường Kiệt - Tô Hiến Thành 1",
+    "location": {
+      "longitude": 106.658336520195,
+      "latitude": 10.7704951431996
+    }
+  },
+  {
+    "id": "5deb576d1dc17d7c5515ad20",
+    "code": "ITS 10.1",
+    "name": "Hồng Bàng - Ngô Quyền 2",
+    "location": {
+      "longitude": 106.666241,
+      "latitude": 10.755881
+    }
+  },
+  {
+    "id": "5874796db807da0011e33cf7",
+    "code": "TTH 28.7",
+    "name": "Trường Chinh - Tây Thạnh 1",
+    "location": {
+      "longitude": 106.630790233612,
+      "latitude": 10.8199228965258
+    }
+  },
+  {
+    "id": "5deb576d1dc17d7c5515acfa",
+    "code": "ITS 2.1-2",
+    "name": "Nút giao Công Trường Dân Chủ",
+    "location": {
+      "longitude": 106.681336,
+      "latitude": 10.777664
+    }
+  },
+  {
+    "id": "58746536b807da0011e33cdc",
+    "code": "TTH 21.12",
+    "name": "Cầu vượt Bình Phước 1",
+    "location": {
+      "longitude": 106.723519563675,
+      "latitude": 10.8659497751896
+    }
+  },
+  {
+    "id": "5deb576d1dc17d7c5515ad1e",
+    "code": "ITS 9.5",
+    "name": "Pasteur - Hàm Nghi",
+    "location": {
+      "longitude": 106.702639,
+      "latitude": 10.770674
+    }
+  },
+  {
+    "id": "589b3705b3bf7600110283bd",
+    "code": "TTH 47.1",
+    "name": "QL 22 - Nguyễn Ảnh Thủ 1",
+    "location": {
+      "longitude": 106.607385277748,
+      "latitude": 10.8551338847726
+    }
+  },
+  {
+    "id": "63b65f33bfd3d90017eaa405",
+    "code": "TTH 233.2",
+    "name": "Nguyễn Hữu Cảnh - Ngô Tất Tố 3 (Nhánh chính cầu Thủ Thiêm 1)",
+    "location": {
+      "longitude": 106.716492176056,
+      "latitude": 10.7893186959144
+    }
+  },
+  {
+    "id": "63ae7759bfd3d90017e8f162",
+    "code": "TTH 187.1",
+    "name": "Nguyễn Tất Thành - Cầu Khánh Hội",
+    "location": {
+      "longitude": 106.706036925316,
+      "latitude": 10.7675070857977
+    }
+  },
+  {
+    "id": "63ae7709bfd3d90017e8f135",
+    "code": "TTH 186.1",
+    "name": "Hoàng Diệu - Đoàn Văn Bơ 1",
+    "location": {
+      "longitude": 106.703810691834,
+      "latitude": 10.7632541910898
+    }
+  },
+  {
+    "id": "649da419a6068200171a6c90",
+    "code": "TTH 229",
+    "name": "Nguyễn Chí Thanh - Ngô Quyền",
+    "location": {
+      "longitude": 106.665605306625,
+      "latitude": 10.759206770879
+    }
+  },
+  {
+    "id": "5deb576d1dc17d7c5515acf7",
+    "code": "ITS 1.4-2",
+    "name": "Nút giao Ngã sáu Cộng Hòa",
+    "location": {
+      "longitude": 106.68172,
+      "latitude": 10.765059
+    }
+  },
+  {
+    "id": "58afccadbd82540010390c3f",
+    "code": "TTH 21.40",
+    "name": "Quốc lộ 1 - Nguyễn Hữu Trí 1",
+    "location": {
+      "longitude": 106.596463322639,
+      "latitude": 10.6966335007055
+    }
+  },
+  {
+    "id": "5d9ddd49766c880017188c94",
+    "code": "TTH 169",
+    "name": "Nút giao Hàng Xanh 1 (Viện Máy tính)",
+    "location": {
+      "longitude": 106.71106338501,
+      "latitude": 10.8016545453012
+    }
+  },
+  {
+    "id": "5d8cd767766c880017188950",
+    "code": "TTH 150",
+    "name": "Phạm Văn Đồng - Nguyễn Xí (hướng đi Sân bay)",
+    "location": {
+      "longitude": 106.702968478203,
+      "latitude": 10.8230474266509
+    }
+  },
+  {
+    "id": "5874656eb807da0011e33cde",
+    "code": "TTH 21.13",
+    "name": "Cầu vượt Bình Phước 2",
+    "location": {
+      "longitude": 106.724211573601,
+      "latitude": 10.8647433460363
+    }
+  },
+  {
+    "id": "5d8cdd26766c880017188974",
+    "code": "TTH 168",
+    "name": "Nút giao Lê Đại Hành 2 (Lê Đại Hành)",
+    "location": {
+      "longitude": 106.652623414993,
+      "latitude": 10.7688351149688
+    }
+  },
+  {
+    "id": "5abbb6d698d8fc001102dfc8",
+    "code": "TTH 249.1",
+    "name": "Nguyễn Văn Linh - Nguyễn Lương Bằng (1)",
+    "location": {
+      "longitude": 106.719925403595,
+      "latitude": 10.7320855467281
+    }
+  },
+  {
+    "id": "5deb576d1dc17d7c5515ad03",
+    "code": "ITS 3.5",
+    "name": "Nam Kỳ Khởi Nghĩa - Nguyễn Đình Chiểu",
+    "location": {
+      "longitude": 106.692835092545,
+      "latitude": 10.7814721788992
+    }
+  },
+  {
+    "id": "56de42f611f398ec0c481296",
+    "code": "TTH 16.1",
+    "name": "Võ Văn Kiệt - Cao Văn Lầu",
+    "location": {
+      "longitude": 106.650842428207,
+      "latitude": 10.7442498171975
+    }
+  },
+  {
+    "id": "63ae777cbfd3d90017e8f177",
+    "code": "TTH 187.2",
+    "name": "Nguyễn Tất Thành - Đoàn Như Hài",
+    "location": {
+      "longitude": 106.706455349922,
+      "latitude": 10.7667745592657
+    }
+  },
+  {
+    "id": "631828cac9eae60017a19f50",
+    "code": "TTH 177",
+    "name": "Nguyễn Thị Minh Khai - Nguyễn Bỉnh Khiêm",
+    "location": {
+      "longitude": 106.703531742096,
+      "latitude": 10.7887074232314
+    }
+  },
+  {
+    "id": "63b3c2fbbfd3d90017e9abbf",
+    "code": "TTH 49.1",
+    "name": "Cầu Sài Gòn 1",
+    "location": {
+      "longitude": 106.727542877197,
+      "latitude": 10.7990251179569
+    }
+  },
+  {
+    "id": "58d7c2e6c1e33c00112b321e",
+    "code": "TTH 28.9",
+    "name": "Trường Chinh - Phan Văn Hớn 1 (Q12-HM)",
+    "location": {
+      "longitude": 106.625425815582,
+      "latitude": 10.8269833398213
+    }
+  },
+  {
+    "id": "5d9dddb9766c880017188c96",
+    "code": "TTH 170",
+    "name": "Nút giao Hàng Xanh 2 (ĐH Hồng Bàng)",
+    "location": {
+      "longitude": 106.706600189209,
+      "latitude": 10.7998787622235
+    }
+  },
+  {
+    "id": "63b54ad1bfd3d90017ea7974",
+    "code": "TTH 220.1",
+    "name": "Võ Chí Công - Liên Phường 1",
+    "location": {
+      "longitude": 106.791830062866,
+      "latitude": 10.8048741133609
+    }
+  },
+  {
+    "id": "56de42f611f398ec0c48129e",
+    "code": "TTH 22.1",
+    "name": "Đồng Văn Cống - Phan Văn Đáng",
+    "location": {
+      "longitude": 106.7572618,
+      "latitude": 10.7785053
+    }
+  },
+  {
+    "id": "5d8cd372766c880017188940",
+    "code": "TTH 142",
+    "name": "Nút giao Cây Gõ 2 (Minh Phụng)",
+    "location": {
+      "longitude": 106.643267869949,
+      "latitude": 10.7550275416962
+    }
+  },
+  {
+    "id": "5ad06a0d98d8fc001102e27b",
+    "code": "TTH 119.2",
+    "name": "Vĩnh Lộc - Nguyễn Thị Tú 2",
+    "location": {
+      "longitude": 106.579318642616,
+      "latitude": 10.8135578170586
+    }
+  },
+  {
+    "id": "63b65f64bfd3d90017eaa41f",
+    "code": "TTH 234",
+    "name": "Xô Viết Nghệ Tĩnh - Đường D5",
+    "location": {
+      "longitude": 106.711615920067,
+      "latitude": 10.8068184838962
+    }
+  },
+  {
+    "id": "58746371b807da0011e33cd1",
+    "code": "TTH 21.7",
+    "name": "Quốc lộ 1 - Đường 14",
+    "location": {
+      "longitude": 106.775951385498,
+      "latitude": 10.8696796650458
+    }
+  },
+  {
+    "id": "63bd1e95bfd3d90017ec3cd5",
+    "code": "TTH 244",
+    "name": "Nguyễn Lương Bằng - Hoàng Quốc Việt",
+    "location": {
+      "longitude": 106.731684207916,
+      "latitude": 10.7131108376067
+    }
+  },
+  {
+    "id": "63ae7cd3bfd3d90017e8f408",
+    "code": "TTH 204",
+    "name": "Lạc Long Quân - Ông Ích Khiêm",
+    "location": {
+      "longitude": 106.64261341095,
+      "latitude": 10.7667007795163
+    }
+  },
+  {
+    "id": "5d8cd70e766c88001718894e",
+    "code": "TTH 149",
+    "name": "Phạm Văn Đồng - Nguyễn Xí (hướng đi Thủ Đức)",
+    "location": {
+      "longitude": 106.703445911407,
+      "latitude": 10.8228313977916
+    }
+  },
+  {
+    "id": "58b555ac17139d0010f35d59",
+    "code": "TTH 42.5",
+    "name": "Tùng Thiện Vương - Cầu Nhị Thiên Đường",
+    "location": {
+      "longitude": 106.656072735786,
+      "latitude": 10.7443815765443
+    }
+  },
+  {
+    "id": "63b55020bfd3d90017ea7cb7",
+    "code": "TTH 231.2",
+    "name": "Nút giao Mỹ Thủy (6)",
+    "location": {
+      "longitude": 106.773376464844,
+      "latitude": 10.7680077324028
+    }
+  },
+  {
+    "id": "587460aab807da0011e33cc2",
+    "code": "TTH 21.1",
+    "name": "Quốc lộ 1 - ĐH Nông Lâm 1",
+    "location": {
+      "longitude": 106.788429021835,
+      "latitude": 10.8671930769878
+    }
+  },
+  {
+    "id": "63b6617ebfd3d90017eaa50b",
+    "code": "TTH 242.3",
+    "name": "Nguyễn Tất Thành - Cảng SG (Q7-Q4)",
+    "location": {
+      "longitude": 106.713917255402,
+      "latitude": 10.7592436616732
+    }
+  },
+  {
+    "id": "5a606a958576340017d06621",
+    "code": "TTH 44.8",
+    "name": "Đinh Bộ Lĩnh - Bạch Đằng 3",
+    "location": {
+      "longitude": 106.709464788437,
+      "latitude": 10.8028664980496
+    }
+  },
+  {
+    "id": "56de42f611f398ec0c481292",
+    "code": "TTH 17.1",
+    "name": "Võ Văn Kiệt - Phạm Phú Thứ",
+    "location": {
+      "longitude": 106.645520925522,
+      "latitude": 10.7413616378753
+    }
+  },
+  {
+    "id": "56de42f611f398ec0c48127d",
+    "code": "TTH 1.1",
+    "name": "Mai Chí Thọ - Xa lộ Hà Nội (Cát Lái cầu A)",
+    "location": {
+      "longitude": 106.752707362175,
+      "latitude": 10.8049847689326
+    }
+  },
+  {
+    "id": "5deb576d1dc17d7c5515acff",
+    "code": "ITS 3.3",
+    "name": "Hai Bà Trưng - Lý Chính Thắng",
+    "location": {
+      "longitude": 106.687554,
+      "latitude": 10.791464
+    }
+  },
+  {
+    "id": "56de42f611f398ec0c48128d",
+    "code": "TTH 2a",
+    "name": "Hải Thượng Lãn Ông - Cầu Chà Và",
+    "location": {
+      "longitude": 106.660031676292,
+      "latitude": 10.7505847415039
+    }
+  },
+  {
+    "id": "59ca2cac02eb490011a0a3e9",
+    "code": "IDICO-QL1 02",
+    "name": "Cầu vượt An Sương 2",
+    "location": {
+      "longitude": 106.611746549606,
+      "latitude": 10.8395020450536
+    }
+  },
+  {
+    "id": "591c6bdba6bfb500119400a7",
+    "code": "TTH 48.10",
+    "name": "Cầu Cái Tâm (Hướng HCM)",
+    "location": {
+      "longitude": 106.578095555305,
+      "latitude": 10.6948360147088
+    }
+  },
+  {
+    "id": "5aab1f852d266a0017e5afd4",
+    "code": "TTH 124.2",
+    "name": "Võ Chí Công - Cầu Phú Mỹ",
+    "location": {
+      "longitude": 106.754032373428,
+      "latitude": 10.7496677141024
+    }
+  },
+  {
+    "id": "5deb576d1dc17d7c5515acfb",
+    "code": "ITS 2.6",
+    "name": "Điện Biên Phủ - Trương Định",
+    "location": {
+      "longitude": 106.687325835228,
+      "latitude": 10.7800493499976
+    }
+  },
+  {
+    "id": "5d8cda2e766c88001718895e",
+    "code": "TTH 157",
+    "name": "Phạm Văn Đồng - Kha Vạn Cân (hướng đi Quốc lộ 1)",
+    "location": {
+      "longitude": 106.74354493618,
+      "latitude": 10.840819218446
+    }
+  },
+  {
+    "id": "586e25e1f9fab7001111b0ae",
+    "code": "TTH 28.4",
+    "name": "Trường Chinh - Tân Kỳ Tân Quý",
+    "location": {
+      "longitude": 106.635918617249,
+      "latitude": 10.8037728247342
+    }
+  },
+  {
+    "id": "5d9ddf0f766c880017188c9e",
+    "code": "TTH 174",
+    "name": "Nút giao Hàng Xanh 6 (Cầu Điện Biên Phủ - Hàng Xanh)",
+    "location": {
+      "longitude": 106.709132194519,
+      "latitude": 10.8007429428369
+    }
+  },
+  {
+    "id": "63ae76ddbfd3d90017e8f11b",
+    "code": "TTH 185",
+    "name": "Khánh Hội -  Hoàng Diệu",
+    "location": {
+      "longitude": 106.698489189148,
+      "latitude": 10.7596389198989
+    }
+  },
+  {
+    "id": "5deb576d1dc17d7c5515ad14",
+    "code": "ITS 7.53",
+    "name": "Lý Tự Trọng - Pasteur 2",
+    "location": {
+      "longitude": 106.701048016548,
+      "latitude": 10.7779625221064
+    }
+  },
+  {
+    "id": "63b66035bfd3d90017eaa48e",
+    "code": "TTH 239",
+    "name": "Nơ Trang Long - Nguyễn Huy Lượng (Bệnh viện Ung Bướu)",
+    "location": {
+      "longitude": 106.695023775101,
+      "latitude": 10.8053483512381
+    }
+  },
+  {
+    "id": "585b284ac3f96200127dc500",
+    "code": "TTH 37.1",
+    "name": "Huỳnh Tấn Phát - Lưu Trọng Lư 1",
+    "location": {
+      "longitude": 106.727795004845,
+      "latitude": 10.7545321437295
+    }
+  },
+  {
+    "id": "56de42f611f398ec0c481295",
+    "code": "TTH 15.1",
+    "name": "Võ Văn Kiệt - Cầu Chà Và 1 (dạ cầu)",
+    "location": {
+      "longitude": 106.659994125366,
+      "latitude": 10.7490827124077
+    }
+  },
+  {
+    "id": "5deb576d1dc17d7c5515ad04",
+    "code": "ITS 3.51",
+    "name": "Võ Thị Sáu - Pasteur",
+    "location": {
+      "longitude": 106.690008044243,
+      "latitude": 10.7860304558102
+    }
+  },
+  {
+    "id": "5a6084208576340017d0667e",
+    "code": "IDICO-QL1 23",
+    "name": "QL1 - Tân Tạo Chợ Đệm 2",
+    "location": {
+      "longitude": 106.590557098389,
+      "latitude": 10.7661000008843
+    }
+  },
+  {
+    "id": "5a8278f35058170011f6eaed",
+    "code": "TTH 122.1",
+    "name": "Nguyễn Văn Linh - Phạm Hùng 1",
+    "location": {
+      "longitude": 106.677117347717,
+      "latitude": 10.7284488196731
+    }
+  },
+  {
+    "id": "63b54aedbfd3d90017ea79c3",
+    "code": "TTH 220.2",
+    "name": "Võ Chí Công - Liên Phường 2",
+    "location": {
+      "longitude": 106.792634725571,
+      "latitude": 10.8045474157208
+    }
+  },
+  {
+    "id": "5a825ab55058170011f6ead2",
+    "code": "TTH 117.2",
+    "name": "Nguyễn Văn Linh - Nguyễn Hữu Thọ (2)",
+    "location": {
+      "longitude": 106.700313091278,
+      "latitude": 10.7289864255581
+    }
+  },
+  {
+    "id": "586e20a0f9fab7001111b0a7",
+    "code": "TTH 39.1",
+    "name": "Nguyễn Kiệm - Hồ Văn Huê",
+    "location": {
+      "longitude": 106.6783618927,
+      "latitude": 10.8062968247449
+    }
+  },
+  {
+    "id": "5a8255a55058170011f6eac7",
+    "code": "TTH 109.1",
+    "name": "BX Miền Đông - Đinh Bộ Lĩnh 1",
+    "location": {
+      "longitude": 106.711433529854,
+      "latitude": 10.8168141411482
+    }
+  },
+  {
+    "id": "56de42f611f398ec0c481280",
+    "code": "TTH 2.2",
+    "name": "Mai Chí Thọ - Lương Định Của 2",
+    "location": {
+      "longitude": 106.751446723938,
+      "latitude": 10.792627978172
+    }
+  },
+  {
+    "id": "56de42f611f398ec0c481294",
+    "code": "TTH 14.2",
+    "name": "Đường hầm - Đầu Quận 1",
+    "location": {
+      "longitude": 106.702040433884,
+      "latitude": 10.7675334356397
+    }
+  },
+  {
+    "id": "56de42f611f398ec0c48128a",
+    "code": "TTH 8.2",
+    "name": "Võ Văn Kiệt - Trần Đình Xu 2",
+    "location": {
+      "longitude": 106.692545413971,
+      "latitude": 10.7587798913611
+    }
+  },
+  {
+    "id": "63b54dcbbfd3d90017ea7ba8",
+    "code": "TTH 228",
+    "name": "Quốc Lộ 1 - Cổng ĐH Quốc gia TPHCM",
+    "location": {
+      "longitude": 106.793847084045,
+      "latitude": 10.865338658848
+    }
+  },
+  {
+    "id": "587ed91db807da0011e33d4e",
+    "code": "TTH 44.5",
+    "name": "Phan Đăng Lưu - Đinh Tiên Hoàng 2",
+    "location": {
+      "longitude": 106.697963476181,
+      "latitude": 10.8024818353159
+    }
+  },
+  {
+    "id": "58b5752e17139d0010f35d5f",
+    "code": "TTH 35.7",
+    "name": "Nam Kỳ Khởi Nghĩa -Nguyễn Thị Minh Khai 2",
+    "location": {
+      "longitude": 106.695173978806,
+      "latitude": 10.7794696770349
+    }
+  },
+  {
+    "id": "631812e6c9eae60017a19567",
+    "code": "TTH 49.11",
+    "name": "Cầu Sài Gòn 11 (Bình Thạnh)",
+    "location": {
+      "longitude": 106.723358631134,
+      "latitude": 10.7980818909152
+    }
+  },
+  {
+    "id": "58175c81edeb6c0012a2d5c2",
+    "code": "TTH 4.2",
+    "name": "Mai Chí Thọ - Trần Não 2",
+    "location": {
+      "longitude": 106.727376580238,
+      "latitude": 10.7757228548636
+    }
+  },
+  {
+    "id": "63ae75a3bfd3d90017e8f051",
+    "code": "TTH 180.2",
+    "name": "Cống Quỳnh - Phạm Viết Chánh",
+    "location": {
+      "longitude": 106.685453653336,
+      "latitude": 10.767891793263
+    }
+  },
+  {
+    "id": "5ad068b198d8fc001102e278",
+    "code": "TTH 118.1",
+    "name": "Quốc lộ 50 - Cầu Ông Thìn (1)",
+    "location": {
+      "longitude": 106.654586791992,
+      "latitude": 10.6524259645754
+    }
+  },
+  {
+    "id": "5abbb77298d8fc001102dfce",
+    "code": "PMH 01.2",
+    "name": "Nguyễn Văn Linh - Nguyễn Lương Bằng (2)",
+    "location": {
+      "longitude": 106.719989776611,
+      "latitude": 10.7315690287392
+    }
+  },
+  {
+    "id": "63bd1f48bfd3d90017ec3d19",
+    "code": "TTH 246",
+    "name": "Huỳnh Tấn Phát - Nguyễn Thị Thập",
+    "location": {
+      "longitude": 106.730353832245,
+      "latitude": 10.7375247437985
+    }
+  },
+  {
+    "id": "58aff2c6bd82540010390c55",
+    "code": "TTH 21.45",
+    "name": "Quốc lộ 1 - Đinh Đức Thiện 1",
+    "location": {
+      "longitude": 106.569807529449,
+      "latitude": 10.6647884855642
+    }
+  },
+  {
+    "id": "5d8cd886766c880017188956",
+    "code": "TTH 153",
+    "name": "Phạm Văn Đồng - Hiệp Bình (hướng đi Thủ Đức)",
+    "location": {
+      "longitude": 106.732848286629,
+      "latitude": 10.8372522994913
+    }
+  },
+  {
+    "id": "5deb576d1dc17d7c5515ad18",
+    "code": "ITS 8.6",
+    "name": "Hai Bà Trưng - Lê Duẩn",
+    "location": {
+      "longitude": 106.699614,
+      "latitude": 10.781431
+    }
+  },
+  {
+    "id": "56de42f611f398ec0c4812a0",
+    "code": "TTH 22.5",
+    "name": "Nguyễn Thị Định - Đường A",
+    "location": {
+      "longitude": 106.783590316772,
+      "latitude": 10.7627851568961
+    }
+  },
+  {
+    "id": "58abc0cbbd82540010390ba6",
+    "code": "TTH 49.3",
+    "name": "Cầu Sài Gòn 3 (Dạ cầu Bình Thạnh)",
+    "location": {
+      "longitude": 106.724517345428,
+      "latitude": 10.7980555437486
+    }
+  },
+  {
+    "id": "58afea5dbd82540010390c4d",
+    "code": "TTH 21.43",
+    "name": "Quốc lộ 1 - Bùi Thanh Khiết 1",
+    "location": {
+      "longitude": 106.580477356911,
+      "latitude": 10.6741931544789
+    }
+  },
+  {
+    "id": "5deb576d1dc17d7c5515ad07",
+    "code": "ITS 5.2",
+    "name": "Nguyễn Văn Trỗi - Trương Quốc Dung",
+    "location": {
+      "longitude": 106.672665,
+      "latitude": 10.797381
+    }
+  },
+  {
+    "id": "5d8cdc1d766c88001718896c",
+    "code": "TTH 164",
+    "name": "Trường Sơn - Hậu Giang",
+    "location": {
+      "longitude": 106.664478778839,
+      "latitude": 10.8076721060064
+    }
+  },
+  {
+    "id": "5a606c758576340017d06626",
+    "code": "TTH 44.9",
+    "name": "BX Miền Đông - Quốc Lộ 13 (1)",
+    "location": {
+      "longitude": 106.712779998779,
+      "latitude": 10.8142322689639
+    }
+  },
+  {
+    "id": "63b66008bfd3d90017eaa476",
+    "code": "TTH 238",
+    "name": "Ung Văn Khiêm - Nguyễn Văn Thương (D1)",
+    "location": {
+      "longitude": 106.721674203873,
+      "latitude": 10.8036621687159
+    }
+  },
+  {
+    "id": "59ca2cf302eb490011a0a3eb",
+    "code": "IDICO-QL1 03",
+    "name": "Cầu vượt An Sương 3",
+    "location": {
+      "longitude": 106.615458726883,
+      "latitude": 10.8427001319976
+    }
+  },
+  {
+    "id": "5a82628e5058170011f6eadb",
+    "code": "TTH 121.1",
+    "name": "Nguyễn Văn Linh - Quốc lộ 50 (1)",
+    "location": {
+      "longitude": 106.655665040016,
+      "latitude": 10.7199365991593
+    }
+  },
+  {
+    "id": "5d8cd653766c88001718894c",
+    "code": "TTH 148",
+    "name": "Kha Vạn Cân - Võ Văn Ngân",
+    "location": {
+      "longitude": 106.75500869751,
+      "latitude": 10.8509770648006
+    }
+  },
+  {
+    "id": "5deb576d1dc17d7c5515ad1d",
+    "code": "ITS 9.4",
+    "name": "Nguyễn Công Trứ - Calmette 2",
+    "location": {
+      "longitude": 106.699846386909,
+      "latitude": 10.7673753365528
+    }
+  },
+  {
+    "id": "595f8d233dcfc400106f28f0",
+    "code": "TTH 21.78",
+    "name": "Quốc lộ 1 - Quang Trung 1 (hướng đi Bình Phước)",
+    "location": {
+      "longitude": 106.632506847382,
+      "latitude": 10.8528104982269
+    }
+  },
+  {
+    "id": "58746314b807da0011e33cce",
+    "code": "TTH 21.6",
+    "name": "Quốc lộ 1 - Cầu vượt Linh Xuân",
+    "location": {
+      "longitude": 106.765040159225,
+      "latitude": 10.8733304866588
+    }
+  },
+  {
+    "id": "63ae7c12bfd3d90017e8f3c0",
+    "code": "TTH 201.2",
+    "name": "Ba Tháng Hai - Lê Đại Hành 2",
+    "location": {
+      "longitude": 106.656598448753,
+      "latitude": 10.7621422099615
+    }
+  },
+  {
+    "id": "59d34ce302eb490011a0a616",
+    "code": "TTH 33.7",
+    "name": "Đỗ Xuân Hợp - Cầu Cống Đập.",
+    "location": {
+      "longitude": 106.7762196064,
+      "latitude": 10.8104489957249
+    }
+  },
+  {
+    "id": "5d8cd2a3766c88001718893c",
+    "code": "TTH 140",
+    "name": "Nút giao Cây Gõ 1 (trên cầu)",
+    "location": {
+      "longitude": 106.642913818359,
+      "latitude": 10.7544425503934
+    }
+  },
+  {
+    "id": "58747923b807da0011e33cf5",
+    "code": "TTH 28.2",
+    "name": "Nút giao Bảy Hiền 2 (Hoàng Văn Thụ)",
+    "location": {
+      "longitude": 106.653615832329,
+      "latitude": 10.7931970867358
+    }
+  },
+  {
+    "id": "63ae7af4bfd3d90017e8f32c",
+    "code": "TTH 200.2",
+    "name": "Ba Tháng Hai - Lý Thường Kiệt 2",
+    "location": {
+      "longitude": 106.659564971924,
+      "latitude": 10.7636125538021
+    }
+  },
+  {
+    "id": "5875d4f8b807da0011e33d1a",
+    "code": "TTH 42.4",
+    "name": "Tạ Quang Bửu - Phạm Hùng 1",
+    "location": {
+      "longitude": 106.670937538147,
+      "latitude": 10.7372717600591
+    }
+  },
+  {
+    "id": "595d92013dcfc400106f2877",
+    "code": "TTH 21.50",
+    "name": "Quốc Lộ 1A - Cầu Bình Phước",
+    "location": {
+      "longitude": 106.715140342712,
+      "latitude": 10.8607025631008
+    }
+  },
+  {
+    "id": "586e1f18f9fab7001111b0a5",
+    "code": "TTH 38.1",
+    "name": "Cộng Hòa - Trường Chinh",
+    "location": {
+      "longitude": 106.634953022003,
+      "latitude": 10.8070661399436
+    }
+  },
+  {
+    "id": "63b65f8dbfd3d90017eaa434",
+    "code": "TTH 235",
+    "name": "Xô Viết Nghệ Tĩnh - Phan Văn Hân (Cầu Thị Nghè)",
+    "location": {
+      "longitude": 106.707404851913,
+      "latitude": 10.7927439077816
+    }
+  },
+  {
+    "id": "5d9de3c2766c880017188cb3",
+    "code": "TTH 1.5",
+    "name": "Cao tốc LTDG - Cầu Bà Dạt 3",
+    "location": {
+      "longitude": 106.754863858223,
+      "latitude": 10.7929019935409
+    }
+  },
+  {
+    "id": "63ae7cfcbfd3d90017e8f422",
+    "code": "TTH 205",
+    "name": "Cách Mạng Tháng Tám – Phạm Văn Hai",
+    "location": {
+      "longitude": 106.660680770874,
+      "latitude": 10.7890446772791
+    }
+  },
+  {
+    "id": "5b0e1faacddcc80011ceb449",
+    "code": "TTH 175.2",
+    "name": "Nút giao Hàng Xanh 8 (HX-VT)",
+    "location": {
+      "longitude": 106.711969971657,
+      "latitude": 10.8012804197692
+    }
+  },
+  {
+    "id": "5d8cd1f9766c880017188938",
+    "code": "TTH 138",
+    "name": "Nguyễn Tri Phương - Trần Phú",
+    "location": {
+      "longitude": 106.669569611549,
+      "latitude": 10.7535782368426
+    }
+  },
+  {
+    "id": "56df8381c062921100c143e2",
+    "code": "TTH 25.1",
+    "name": "Nguyễn Hữu Thọ - Nguyễn Thị Thập 1",
+    "location": {
+      "longitude": 106.700946092606,
+      "latitude": 10.740497286869
+    }
+  },
+  {
+    "id": "63b65fa9bfd3d90017eaa449",
+    "code": "TTH 236",
+    "name": "Xô Viết Nghệ Tĩnh - Nguyễn Văn Lạc",
+    "location": {
+      "longitude": 106.709818840027,
+      "latitude": 10.7953154258079
+    }
+  },
+  {
+    "id": "5deb576d1dc17d7c5515acf5",
+    "code": "ITS 1.3-2",
+    "name": "Nút giao Ngã bảy Lý Thái Tổ",
+    "location": {
+      "longitude": 106.674596,
+      "latitude": 10.767428
+    }
+  },
+  {
+    "id": "631955e7c9eae60017a1c30a",
+    "code": "TTH 179",
+    "name": "Cách Mạng Tháng Tám – Hòa Hưng",
+    "location": {
+      "longitude": 106.677144169807,
+      "latitude": 10.7802232516687
+    }
+  },
+  {
+    "id": "5a6060e08576340017d0660f",
+    "code": "TTH 24.7",
+    "name": "Nguyễn Thái Sơn - Phan Văn Trị 2",
+    "location": {
+      "longitude": 106.689149737358,
+      "latitude": 10.8262720340397
+    }
+  },
+  {
+    "id": "63ae7a26bfd3d90017e8f29a",
+    "code": "TTH 196.2",
+    "name": "Ba Tháng Hai - Lê Hồng Phong 2",
+    "location": {
+      "longitude": 106.672922372818,
+      "latitude": 10.7711380723106
+    }
+  },
+  {
+    "id": "63b548c3bfd3d90017ea77c0",
+    "code": "TTH 210",
+    "name": "Nguyễn Duy Trinh - Nguyễn Thị Tư",
+    "location": {
+      "longitude": 106.806946992874,
+      "latitude": 10.792733368728
+    }
+  },
+  {
+    "id": "63195556c9eae60017a1c2ba",
+    "code": "TTH 178.2",
+    "name": "Nguyễn Trãi - Cống Quỳnh 2",
+    "location": {
+      "longitude": 106.688092947006,
+      "latitude": 10.7663318804982
+    }
+  },
+  {
+    "id": "5a607ea98576340017d0666d",
+    "code": "IDICO-QL1 06",
+    "name": "QL1-Phan Văn Hớn (Q12)",
+    "location": {
+      "longitude": 106.607272624969,
+      "latitude": 10.8343386694508
+    }
+  },
+  {
+    "id": "58df4adedc195800111e04b4",
+    "code": "TTH 26.2",
+    "name": "Phổ Quang - Huỳnh Lan Khanh",
+    "location": {
+      "longitude": 106.666592359543,
+      "latitude": 10.8049689609963
+    }
+  },
+  {
+    "id": "59ca301902eb490011a0a400",
+    "code": "IDICO-QL1 20",
+    "name": "QL1 - Hương Lộ 2 (1)",
+    "location": {
+      "longitude": 106.591292023659,
+      "latitude": 10.7702369171868
+    }
+  },
+  {
+    "id": "583f958161cfea0012cf68f5",
+    "code": "TTH 22.6",
+    "name": "Nguyễn Thị Định - Đường C",
+    "location": {
+      "longitude": 106.779872775078,
+      "latitude": 10.7660209509751
+    }
+  },
+  {
+    "id": "584e738361cfea0012cf6951",
+    "code": "TTH 21.38",
+    "name": "Quốc lộ 1 - Nguyễn Thị Tú",
+    "location": {
+      "longitude": 106.600910425186,
+      "latitude": 10.8161291568165
+    }
+  },
+  {
+    "id": "5d9dde1f766c880017188c98",
+    "code": "TTH 171",
+    "name": "Nút giao Hàng Xanh 3 (Cầu Thị Nghè - Hàng Xanh)",
+    "location": {
+      "longitude": 106.711294054985,
+      "latitude": 10.8001422321862
+    }
+  },
+  {
+    "id": "5a8253615058170011f6eabf",
+    "code": "TTH 107.1",
+    "name": "Đinh Bộ Lĩnh - Bạch Đằng 1",
+    "location": {
+      "longitude": 106.710022687912,
+      "latitude": 10.8030720025958
+    }
+  },
+  {
+    "id": "5deb576d1dc17d7c5515ad0f",
+    "code": "ITS 7.4",
+    "name": "Nguyễn Thị Minh Khai - Trương Định",
+    "location": {
+      "longitude": 106.691731,
+      "latitude": 10.776014
+    }
+  },
+  {
+    "id": "58b5528e17139d0010f35d52",
+    "code": "TTH 33.4",
+    "name": "Xa Lộ Hà Nội - Đường D400",
+    "location": {
+      "longitude": 106.807773113251,
+      "latitude": 10.8719449708741
+    }
+  },
+  {
+    "id": "5deb576d1dc17d7c5515ad22",
+    "code": "ITS 10.2-2",
+    "name": "Nút giao Ngã sáu Nguyễn Tri Phương",
+    "location": {
+      "longitude": 106.669124,
+      "latitude": 10.76009
+    }
+  },
+  {
+    "id": "63b664d2bfd3d90017eaaa0f",
+    "code": "TTH 243.1",
+    "name": "CT Trung Lương - Võ Trần Chí 1",
+    "location": {
+      "longitude": 106.568777561188,
+      "latitude": 10.684773059211
+    }
+  },
+  {
+    "id": "58d7b5a7c1e33c00112b320a",
+    "code": "TTH 21.48",
+    "name": "Nút giao Chợ Đệm 1 (CT Trung Lương - Bùi Thanh Khiết)",
+    "location": {
+      "longitude": 106.576287746429,
+      "latitude": 10.6859643956044
+    }
+  },
+  {
+    "id": "5d8cdb9f766c880017188968",
+    "code": "TTH 162",
+    "name": "Hoàng Văn Thụ - Trần Huy Liệu",
+    "location": {
+      "longitude": 106.677471399307,
+      "latitude": 10.7993728992472
+    }
+  },
+  {
+    "id": "58aff01fbd82540010390c50",
+    "code": "TTH 21.44",
+    "name": "Quốc lộ 1 - Bùi Thanh Khiết 2",
+    "location": {
+      "longitude": 106.58026278019,
+      "latitude": 10.6737028958529
+    }
+  },
+  {
+    "id": "5a6085fb8576340017d06686",
+    "code": "IDICO-QL1 28",
+    "name": "QL1-Tỉnh lộ 10B (1)",
+    "location": {
+      "longitude": 106.593507528305,
+      "latitude": 10.7499628496621
+    }
+  },
+  {
+    "id": "5a8253bc5058170011f6eac1",
+    "code": "TTH 107.2",
+    "name": "Đinh Bộ Lĩnh - Bạch Đằng 2",
+    "location": {
+      "longitude": 106.709395051003,
+      "latitude": 10.8030930799773
+    }
+  },
+  {
+    "id": "587c782db807da0011e33d3b",
+    "code": "TTH 33.3",
+    "name": "Xa lộ HN - Thảo Điền",
+    "location": {
+      "longitude": 106.738277077675,
+      "latitude": 10.8010116814233
+    }
+  },
+  {
+    "id": "63ae7d29bfd3d90017e8f437",
+    "code": "TTH 206",
+    "name": "Lý Thường Kiệt - Bắc Hải",
+    "location": {
+      "longitude": 106.656131744385,
+      "latitude": 10.7778307774358
+    }
+  },
+  {
+    "id": "56de42f611f398ec0c48129f",
+    "code": "TTH 22.2",
+    "name": "Đồng Văn Cống - Nguyễn Thị Định",
+    "location": {
+      "longitude": 106.7702866,
+      "latitude": 10.7731722
+    }
+  },
+  {
+    "id": "5a8256df5058170011f6eacb",
+    "code": "TTH 110",
+    "name": "BX Miền Đông - Quốc Lộ 13 (2)",
+    "location": {
+      "longitude": 106.713198423386,
+      "latitude": 10.8172620146729
+    }
+  },
+  {
+    "id": "5deb576d1dc17d7c5515acfc",
+    "code": "ITS 2.5",
+    "name": "Võ Thị Sáu - Bà Huyện Thanh Quan",
+    "location": {
+      "longitude": 106.684305667877,
+      "latitude": 10.7801810936971
+    }
+  },
+  {
+    "id": "5deb576d1dc17d7c5515ad1f",
+    "code": "ITS 9.51",
+    "name": "Hùng Vương - Ngô Gia Tự",
+    "location": {
+      "longitude": 106.666474342346,
+      "latitude": 10.7563292750288
+    }
+  },
+  {
+    "id": "587c8c20b807da0011e33d47",
+    "code": "TTH 34.3",
+    "name": "Hoàng Văn Thụ - Hồ Văn Huê",
+    "location": {
+      "longitude": 106.674934029579,
+      "latitude": 10.7994466709843
+    }
+  },
+  {
+    "id": "59ca2d9d02eb490011a0a3f0",
+    "code": "IDICO-QL1 05",
+    "name": "QL1 - Phan Văn Hớn 2",
+    "location": {
+      "longitude": 106.606961488724,
+      "latitude": 10.8342965190794
+    }
+  },
+  {
+    "id": "58744fb0b807da0011e33cc0",
+    "code": "TTH 43.2",
+    "name": "Hưng Phú - Chánh Hưng 2",
+    "location": {
+      "longitude": 106.669129729271,
+      "latitude": 10.7463895818732
+    }
+  },
+  {
+    "id": "649da495a6068200171a6cb6",
+    "code": "TTH 230.3",
+    "name": "Mai Chí Thọ - Trần Quý Kiên (3)",
+    "location": {
+      "longitude": 106.740009784698,
+      "latitude": 10.7817936319045
+    }
+  },
+  {
+    "id": "5822f23aedeb6c0012a2d6a8",
+    "code": "TTH 3a",
+    "name": "Hồng Bàng - Nguyễn Thị Nhỏ",
+    "location": {
+      "longitude": 106.650649309158,
+      "latitude": 10.7536098581137
+    }
+  }
+]
